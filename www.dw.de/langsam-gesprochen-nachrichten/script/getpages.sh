@@ -39,507 +39,507 @@ getPages()
 getPages "http://www.dw.com/de/31122015-langsam-gesprochene-nachrichten/a-18952550" "31122015"
 
 # release
-# getPages "http://www.dw.com/de/31122015-langsam-gesprochene-nachrichten/a-18952550" "31122015" &
-getPages "http://www.dw.com/de/30122015-langsam-gesprochene-nachrichten/a-18950827" "30122015" &
-getPages "http://www.dw.com/de/29122015-langsam-gesprochene-nachrichten/a-18946696" "29122015" &
-getPages "http://www.dw.com/de/28122015-langsam-gesprochene-nachrichten/a-18944804" "28122015" &
-getPages "http://www.dw.com/de/26122015-langsam-gesprochene-nachrichten/a-18942892" "26122015" &
-getPages "http://www.dw.com/de/25122015-langsam-gesprochene-nachrichten/a-18941641" "25122015" &
-getPages "http://www.dw.com/de/24122015-langsam-gesprochene-nachrichten/a-18938354" "24122015" &
-getPages "http://www.dw.com/de/23122015-langsam-gesprochene-nachrichten/a-18936010" "23122015" &
-getPages "http://www.dw.com/de/22122015-langsam-gesprochene-nachrichten/a-18933877" "22122015" &
-getPages "http://www.dw.com/de/21122015-langsam-gesprochene-nachrichten/a-18931673" "21122015" &
-getPages "http://www.dw.com/de/19122015-langsam-gesprochene-nachrichten/a-18929274" "19122015" &
-getPages "http://www.dw.com/de/18122015-langsam-gesprochene-nachrichten/a-18926101" "18122015" &
-getPages "http://www.dw.com/de/17122015-langsam-gesprochene-nachrichten/a-18923763" "17122015" &
-getPages "http://www.dw.com/de/16122015-langsam-gesprochene-nachrichten/a-18920320" "16122015" &
-getPages "http://www.dw.com/de/15122015-langsam-gesprochene-nachrichten/a-18918041" "15122015" &
-getPages "http://www.dw.com/de/14122015-langsam-gesprochene-nachrichten/a-18915786" "14122015" &
-getPages "http://www.dw.com/de/12122015-langsam-gesprochene-nachrichten/a-18913526" "12122015" &
-getPages "http://www.dw.com/de/11122015-langsam-gesprochene-nachrichten/a-18911459" "11122015" &
-getPages "http://www.dw.com/de/10122015-langsam-gesprochene-nachrichten/a-18909037" "10122015" &
-getPages "http://www.dw.com/de/09122015-langsam-gesprochene-nachrichten/a-18903413" "09122015" &
-getPages "http://www.dw.com/de/08122015-langsam-gesprochene-nachrichten/a-18901263" "08122015" &
-getPages "http://www.dw.com/de/07122015-langsam-gesprochene-nachrichten/a-18898736" "07122015" &
-getPages "http://www.dw.com/de/05122015-langsam-gesprochene-nachrichten/a-18896476" "05122015" &
-getPages "http://www.dw.com/de/04122015-langsam-gesprochene-nachrichten/a-18894513" "04122015" &
-getPages "http://www.dw.com/de/03122015-langsam-gesprochene-nachrichten/a-18890296" "03122015" &
-getPages "http://www.dw.com/de/02122015-langsam-gesprochene-nachrichten/a-18888216" "02122015" &
+# getPages "http://www.dw.com/de/31122015-langsam-gesprochene-nachrichten/a-18952550" "31122015"
+getPages "http://www.dw.com/de/30122015-langsam-gesprochene-nachrichten/a-18950827" "30122015"
+getPages "http://www.dw.com/de/29122015-langsam-gesprochene-nachrichten/a-18946696" "29122015"
+getPages "http://www.dw.com/de/28122015-langsam-gesprochene-nachrichten/a-18944804" "28122015"
+getPages "http://www.dw.com/de/26122015-langsam-gesprochene-nachrichten/a-18942892" "26122015"
+getPages "http://www.dw.com/de/25122015-langsam-gesprochene-nachrichten/a-18941641" "25122015"
+getPages "http://www.dw.com/de/24122015-langsam-gesprochene-nachrichten/a-18938354" "24122015"
+getPages "http://www.dw.com/de/23122015-langsam-gesprochene-nachrichten/a-18936010" "23122015"
+getPages "http://www.dw.com/de/22122015-langsam-gesprochene-nachrichten/a-18933877" "22122015"
+getPages "http://www.dw.com/de/21122015-langsam-gesprochene-nachrichten/a-18931673" "21122015"
+getPages "http://www.dw.com/de/19122015-langsam-gesprochene-nachrichten/a-18929274" "19122015"
+getPages "http://www.dw.com/de/18122015-langsam-gesprochene-nachrichten/a-18926101" "18122015"
+getPages "http://www.dw.com/de/17122015-langsam-gesprochene-nachrichten/a-18923763" "17122015"
+getPages "http://www.dw.com/de/16122015-langsam-gesprochene-nachrichten/a-18920320" "16122015"
+getPages "http://www.dw.com/de/15122015-langsam-gesprochene-nachrichten/a-18918041" "15122015"
+getPages "http://www.dw.com/de/14122015-langsam-gesprochene-nachrichten/a-18915786" "14122015"
+getPages "http://www.dw.com/de/12122015-langsam-gesprochene-nachrichten/a-18913526" "12122015"
+getPages "http://www.dw.com/de/11122015-langsam-gesprochene-nachrichten/a-18911459" "11122015"
+getPages "http://www.dw.com/de/10122015-langsam-gesprochene-nachrichten/a-18909037" "10122015"
+getPages "http://www.dw.com/de/09122015-langsam-gesprochene-nachrichten/a-18903413" "09122015"
+getPages "http://www.dw.com/de/08122015-langsam-gesprochene-nachrichten/a-18901263" "08122015"
+getPages "http://www.dw.com/de/07122015-langsam-gesprochene-nachrichten/a-18898736" "07122015"
+getPages "http://www.dw.com/de/05122015-langsam-gesprochene-nachrichten/a-18896476" "05122015"
+getPages "http://www.dw.com/de/04122015-langsam-gesprochene-nachrichten/a-18894513" "04122015"
+getPages "http://www.dw.com/de/03122015-langsam-gesprochene-nachrichten/a-18890296" "03122015"
+getPages "http://www.dw.com/de/02122015-langsam-gesprochene-nachrichten/a-18888216" "02122015"
 getPages "http://www.dw.com/de/01122015-langsam-gesprochene-nachrichten/a-18886166" "01122015" &
-getPages "http://www.dw.com/de/30112015-langsam-gesprochene-nachrichten/a-18883839" "30112015" &
-getPages "http://www.dw.com/de/28112015-langsam-gesprochene-nachrichten/a-18881469" "28112015" &
-getPages "http://www.dw.com/de/27112015-langsam-gesprochene-nachrichten/a-18879234" "27112015" &
-getPages "http://www.dw.com/de/26112015-langsam-gesprochene-nachrichten/a-18877045" "26112015" &
-getPages "http://www.dw.com/de/25112015-langsam-gesprochene-nachrichten/a-18874588" "25112015" &
-getPages "http://www.dw.com/de/24112015-langsam-gesprochene-nachrichten/a-18870465" "24112015" &
-getPages "http://www.dw.com/de/23112015-langsam-gesprochene-nachrichten/a-18868391" "23112015" &
-getPages "http://www.dw.com/de/21112015-langsam-gesprochene-nachrichten/a-18866067" "21112015" &
-getPages "http://www.dw.com/de/20112015-langsam-gesprochene-nachrichten/a-18863806" "20112015" &
-getPages "http://www.dw.com/de/19112015-langsam-gesprochene-nachrichten/a-18861495" "19112015" &
-getPages "http://www.dw.com/de/18112015-langsam-gesprochene-nachrichten/a-18857184" "18112015" &
-getPages "http://www.dw.com/de/17112015-langsam-gesprochene-nachrichten/a-18854726" "17112015" &
-getPages "http://www.dw.com/de/16112015-langsam-gesprochene-nachrichten/a-18852552" "16112015" &
-getPages "http://www.dw.com/de/14112015-langsam-gesprochene-nachrichten/a-18849943" "14112015" &
-getPages "http://www.dw.com/de/13112015-langsam-gesprochene-nachrichten/a-18847201" "13112015" &
-getPages "http://www.dw.com/de/12112015-langsam-gesprochene-nachrichten/a-18844688" "12112015" &
-getPages "http://www.dw.com/de/11112015-langsam-gesprochene-nachrichten/a-18842506" "11112015" &
-getPages "http://www.dw.com/de/10112015-langsam-gesprochene-nachrichten/a-18838068" "10112015" &
-getPages "http://www.dw.com/de/09112015-langsam-gesprochene-nachrichten/a-18835982" "09112015" &
-getPages "http://www.dw.com/de/07112015-langsam-gesprochene-nachrichten/a-18833731" "07112015" &
-getPages "http://www.dw.com/de/06112015-langsam-gesprochene-nachrichten/a-18831641" "06112015" &
-getPages "http://www.dw.com/de/05112015-langsam-gesprochene-nachrichten/a-18829607" "05112015" &
-getPages "http://www.dw.com/de/04112015-langsam-gesprochene-nachrichten/a-18825175" "04112015" &
-getPages "http://www.dw.com/de/03112015-langsam-gesprochene-nachrichten/a-18822973" "03112015" &
+getPages "http://www.dw.com/de/30112015-langsam-gesprochene-nachrichten/a-18883839" "30112015"
+getPages "http://www.dw.com/de/28112015-langsam-gesprochene-nachrichten/a-18881469" "28112015"
+getPages "http://www.dw.com/de/27112015-langsam-gesprochene-nachrichten/a-18879234" "27112015"
+getPages "http://www.dw.com/de/26112015-langsam-gesprochene-nachrichten/a-18877045" "26112015"
+getPages "http://www.dw.com/de/25112015-langsam-gesprochene-nachrichten/a-18874588" "25112015"
+getPages "http://www.dw.com/de/24112015-langsam-gesprochene-nachrichten/a-18870465" "24112015"
+getPages "http://www.dw.com/de/23112015-langsam-gesprochene-nachrichten/a-18868391" "23112015"
+getPages "http://www.dw.com/de/21112015-langsam-gesprochene-nachrichten/a-18866067" "21112015"
+getPages "http://www.dw.com/de/20112015-langsam-gesprochene-nachrichten/a-18863806" "20112015"
+getPages "http://www.dw.com/de/19112015-langsam-gesprochene-nachrichten/a-18861495" "19112015"
+getPages "http://www.dw.com/de/18112015-langsam-gesprochene-nachrichten/a-18857184" "18112015"
+getPages "http://www.dw.com/de/17112015-langsam-gesprochene-nachrichten/a-18854726" "17112015"
+getPages "http://www.dw.com/de/16112015-langsam-gesprochene-nachrichten/a-18852552" "16112015"
+getPages "http://www.dw.com/de/14112015-langsam-gesprochene-nachrichten/a-18849943" "14112015"
+getPages "http://www.dw.com/de/13112015-langsam-gesprochene-nachrichten/a-18847201" "13112015"
+getPages "http://www.dw.com/de/12112015-langsam-gesprochene-nachrichten/a-18844688" "12112015"
+getPages "http://www.dw.com/de/11112015-langsam-gesprochene-nachrichten/a-18842506" "11112015"
+getPages "http://www.dw.com/de/10112015-langsam-gesprochene-nachrichten/a-18838068" "10112015"
+getPages "http://www.dw.com/de/09112015-langsam-gesprochene-nachrichten/a-18835982" "09112015"
+getPages "http://www.dw.com/de/07112015-langsam-gesprochene-nachrichten/a-18833731" "07112015"
+getPages "http://www.dw.com/de/06112015-langsam-gesprochene-nachrichten/a-18831641" "06112015"
+getPages "http://www.dw.com/de/05112015-langsam-gesprochene-nachrichten/a-18829607" "05112015"
+getPages "http://www.dw.com/de/04112015-langsam-gesprochene-nachrichten/a-18825175" "04112015"
+getPages "http://www.dw.com/de/03112015-langsam-gesprochene-nachrichten/a-18822973" "03112015"
 getPages "http://www.dw.com/de/02112015-langsam-gesprochene-nachrichten/a-18820733" "02112015" &
-getPages "http://www.dw.com/de/31102015-langsam-gesprochene-nachrichten/a-18818481" "31102015" &
-getPages "http://www.dw.com/de/30102015-langsam-gesprochene-nachrichten/a-18816365" "30102015" &
-getPages "http://www.dw.com/de/29102015-langsam-gesprochene-nachrichten/a-18814053" "29102015" &
-getPages "http://www.dw.com/de/28102015-langsam-gesprochene-nachrichten/a-18809758" "28102015" &
-getPages "http://www.dw.com/de/27102015-langsam-gesprochene-nachrichten/a-18807648" "27102015" &
-getPages "http://www.dw.com/de/26102015-langsam-gesprochene-nachrichten/a-18805524" "26102015" &
-getPages "http://www.dw.com/de/24102015-langsam-gesprochene-nachrichten/a-18803192" "24102015" &
-getPages "http://www.dw.com/de/23102015-langsam-gesprochene-nachrichten/a-18800985" "23102015" &
-getPages "http://www.dw.com/de/22102015-langsam-gesprochene-nachrichten/a-18798926" "22102015" &
-getPages "http://www.dw.com/de/21102015-langsam-gesprochene-nachrichten/a-18794614" "21102015" &
-getPages "http://www.dw.com/de/20102015-langsam-gesprochene-nachrichten/a-18792435" "20102015" &
-getPages "http://www.dw.com/de/19102015-langsam-gesprochene-nachrichten/a-18790465" "19102015" &
-getPages "http://www.dw.com/de/17102015-langsam-gesprochene-nachrichten/a-18788344" "17102015" &
-getPages "http://www.dw.com/de/16102015-langsam-gesprochene-nachrichten/a-18786287" "16102015" &
-getPages "http://www.dw.com/de/15102015-langsam-gesprochene-nachrichten/a-18784392" "15102015" &
-getPages "http://www.dw.com/de/14102015-langsam-gesprochene-nachrichten/a-18780132" "14102015" &
-getPages "http://www.dw.com/de/13102015-langsam-gesprochene-nachrichten/a-18778196" "13102015" &
-getPages "http://www.dw.com/de/12102015-langsam-gesprochene-nachrichten/a-18776148" "12102015" &
-getPages "http://www.dw.com/de/10102015-langsam-gesprochene-nachrichten/a-18774232" "10102015" &
-getPages "http://www.dw.com/de/09102015-langsam-gesprochene-nachrichten/a-18771831" "09102015" &
-getPages "http://www.dw.com/de/08102015-langsam-gesprochene-nachrichten/a-18767579" "08102015" &
-getPages "http://www.dw.com/de/07102015-langsam-gesprochene-nachrichten/a-18765388" "07102015" &
-getPages "http://www.dw.com/de/06102015-langsam-gesprochene-nachrichten/a-18763334" "06102015" &
-getPages "http://www.dw.com/de/05102015-langsam-gesprochene-nachrichten/a-18761250" "05102015" &
-getPages "http://www.dw.com/de/03102015-langsam-gesprochene-nachrichten/a-18758928" "03102015" &
-getPages "http://www.dw.com/de/02102015-langsam-gesprochene-nachrichten/a-18757057" "02102015" &
+getPages "http://www.dw.com/de/31102015-langsam-gesprochene-nachrichten/a-18818481" "31102015"
+getPages "http://www.dw.com/de/30102015-langsam-gesprochene-nachrichten/a-18816365" "30102015"
+getPages "http://www.dw.com/de/29102015-langsam-gesprochene-nachrichten/a-18814053" "29102015"
+getPages "http://www.dw.com/de/28102015-langsam-gesprochene-nachrichten/a-18809758" "28102015"
+getPages "http://www.dw.com/de/27102015-langsam-gesprochene-nachrichten/a-18807648" "27102015"
+getPages "http://www.dw.com/de/26102015-langsam-gesprochene-nachrichten/a-18805524" "26102015"
+getPages "http://www.dw.com/de/24102015-langsam-gesprochene-nachrichten/a-18803192" "24102015"
+getPages "http://www.dw.com/de/23102015-langsam-gesprochene-nachrichten/a-18800985" "23102015"
+getPages "http://www.dw.com/de/22102015-langsam-gesprochene-nachrichten/a-18798926" "22102015"
+getPages "http://www.dw.com/de/21102015-langsam-gesprochene-nachrichten/a-18794614" "21102015"
+getPages "http://www.dw.com/de/20102015-langsam-gesprochene-nachrichten/a-18792435" "20102015"
+getPages "http://www.dw.com/de/19102015-langsam-gesprochene-nachrichten/a-18790465" "19102015"
+getPages "http://www.dw.com/de/17102015-langsam-gesprochene-nachrichten/a-18788344" "17102015"
+getPages "http://www.dw.com/de/16102015-langsam-gesprochene-nachrichten/a-18786287" "16102015"
+getPages "http://www.dw.com/de/15102015-langsam-gesprochene-nachrichten/a-18784392" "15102015"
+getPages "http://www.dw.com/de/14102015-langsam-gesprochene-nachrichten/a-18780132" "14102015"
+getPages "http://www.dw.com/de/13102015-langsam-gesprochene-nachrichten/a-18778196" "13102015"
+getPages "http://www.dw.com/de/12102015-langsam-gesprochene-nachrichten/a-18776148" "12102015"
+getPages "http://www.dw.com/de/10102015-langsam-gesprochene-nachrichten/a-18774232" "10102015"
+getPages "http://www.dw.com/de/09102015-langsam-gesprochene-nachrichten/a-18771831" "09102015"
+getPages "http://www.dw.com/de/08102015-langsam-gesprochene-nachrichten/a-18767579" "08102015"
+getPages "http://www.dw.com/de/07102015-langsam-gesprochene-nachrichten/a-18765388" "07102015"
+getPages "http://www.dw.com/de/06102015-langsam-gesprochene-nachrichten/a-18763334" "06102015"
+getPages "http://www.dw.com/de/05102015-langsam-gesprochene-nachrichten/a-18761250" "05102015"
+getPages "http://www.dw.com/de/03102015-langsam-gesprochene-nachrichten/a-18758928" "03102015"
+getPages "http://www.dw.com/de/02102015-langsam-gesprochene-nachrichten/a-18757057" "02102015"
 getPages "http://www.dw.com/de/01102015-langsam-gesprochene-nachrichten/a-18752557" "01102015" &
-getPages "http://www.dw.com/de/30092015-langsam-gesprochene-nachrichten/a-18750394" "30092015" &
-getPages "http://www.dw.com/de/29092015-langsam-gesprochene-nachrichten/a-18747565" "29092015" &
-getPages "http://www.dw.com/de/28092015-langsam-gesprochene-nachrichten/a-18745411" "28092015" &
-getPages "http://www.dw.com/de/26092015-langsam-gesprochene-nachrichten/a-18743055" "26092015" &
-getPages "http://www.dw.com/de/25092015-langsam-gesprochene-nachrichten/a-18740895" "25092015" &
-getPages "http://www.dw.com/de/24092015-langsam-gesprochene-nachrichten/a-18736719" "24092015" &
-getPages "http://www.dw.com/de/23092015-langsam-gesprochene-nachrichten/a-18731288" "23092015" &
-getPages "http://www.dw.com/de/22092015-langsam-gesprochene-nachrichten/a-18728780" "22092015" &
-getPages "http://www.dw.com/de/21092015-langsam-gesprochene-nachrichten/a-18726459" "21092015" &
-getPages "http://www.dw.com/de/19092015-langsam-gesprochene-nachrichten/a-18724146" "19092015" &
-getPages "http://www.dw.com/de/18092015-langsam-gesprochene-nachrichten/a-18722138" "18092015" &
-getPages "http://www.dw.com/de/17092015-langsam-gesprochene-nachrichten/a-18719237" "17092015" &
-getPages "http://www.dw.com/de/16092015-langsam-gesprochene-nachrichten/a-18717064" "16092015" &
-getPages "http://www.dw.com/de/15092015-langsam-gesprochene-nachrichten/a-18714779" "15092015" &
-getPages "http://www.dw.com/de/14092015-langsam-gesprochene-nachrichten/a-18712602" "14092015" &
-getPages "http://www.dw.com/de/12092015-langsam-gesprochene-nachrichten/a-18710502" "12092015" &
-getPages "http://www.dw.com/de/11092015-langsam-gesprochene-nachrichten/a-18708330" "11092015" &
-getPages "http://www.dw.com/de/10092015-langsam-gesprochene-nachrichten/a-18705077" "10092015" &
-getPages "http://www.dw.com/de/09092015-langsam-gesprochene-nachrichten/a-18702829" "09092015" &
-getPages "http://www.dw.com/de/08092015-langsam-gesprochene-nachrichten/a-18699554" "08092015" &
-getPages "http://www.dw.com/de/07092015-langsam-gesprochene-nachrichten/a-18697313" "07092015" &
-getPages "http://www.dw.com/de/05092015-langsam-gesprochene-nachrichten/a-18695277" "05092015" &
-getPages "http://www.dw.com/de/04092015-langsam-gesprochene-nachrichten/a-18693218" "04092015" &
-getPages "http://www.dw.com/de/03092015-langsam-gesprochene-nachrichten/a-18691185" "03092015" &
-getPages "http://www.dw.com/de/02092015-langsam-gesprochene-nachrichten/a-18689176" "02092015" &
+getPages "http://www.dw.com/de/30092015-langsam-gesprochene-nachrichten/a-18750394" "30092015"
+getPages "http://www.dw.com/de/29092015-langsam-gesprochene-nachrichten/a-18747565" "29092015"
+getPages "http://www.dw.com/de/28092015-langsam-gesprochene-nachrichten/a-18745411" "28092015"
+getPages "http://www.dw.com/de/26092015-langsam-gesprochene-nachrichten/a-18743055" "26092015"
+getPages "http://www.dw.com/de/25092015-langsam-gesprochene-nachrichten/a-18740895" "25092015"
+getPages "http://www.dw.com/de/24092015-langsam-gesprochene-nachrichten/a-18736719" "24092015"
+getPages "http://www.dw.com/de/23092015-langsam-gesprochene-nachrichten/a-18731288" "23092015"
+getPages "http://www.dw.com/de/22092015-langsam-gesprochene-nachrichten/a-18728780" "22092015"
+getPages "http://www.dw.com/de/21092015-langsam-gesprochene-nachrichten/a-18726459" "21092015"
+getPages "http://www.dw.com/de/19092015-langsam-gesprochene-nachrichten/a-18724146" "19092015"
+getPages "http://www.dw.com/de/18092015-langsam-gesprochene-nachrichten/a-18722138" "18092015"
+getPages "http://www.dw.com/de/17092015-langsam-gesprochene-nachrichten/a-18719237" "17092015"
+getPages "http://www.dw.com/de/16092015-langsam-gesprochene-nachrichten/a-18717064" "16092015"
+getPages "http://www.dw.com/de/15092015-langsam-gesprochene-nachrichten/a-18714779" "15092015"
+getPages "http://www.dw.com/de/14092015-langsam-gesprochene-nachrichten/a-18712602" "14092015"
+getPages "http://www.dw.com/de/12092015-langsam-gesprochene-nachrichten/a-18710502" "12092015"
+getPages "http://www.dw.com/de/11092015-langsam-gesprochene-nachrichten/a-18708330" "11092015"
+getPages "http://www.dw.com/de/10092015-langsam-gesprochene-nachrichten/a-18705077" "10092015"
+getPages "http://www.dw.com/de/09092015-langsam-gesprochene-nachrichten/a-18702829" "09092015"
+getPages "http://www.dw.com/de/08092015-langsam-gesprochene-nachrichten/a-18699554" "08092015"
+getPages "http://www.dw.com/de/07092015-langsam-gesprochene-nachrichten/a-18697313" "07092015"
+getPages "http://www.dw.com/de/05092015-langsam-gesprochene-nachrichten/a-18695277" "05092015"
+getPages "http://www.dw.com/de/04092015-langsam-gesprochene-nachrichten/a-18693218" "04092015"
+getPages "http://www.dw.com/de/03092015-langsam-gesprochene-nachrichten/a-18691185" "03092015"
+getPages "http://www.dw.com/de/02092015-langsam-gesprochene-nachrichten/a-18689176" "02092015"
 getPages "http://www.dw.com/de/01092015-langsam-gesprochene-nachrichten/a-18685113" "01092015" &
-getPages "http://www.dw.com/de/31082015-langsam-gesprochene-nachrichten/a-18683105" "31082015" &
-getPages "http://www.dw.com/de/29082015-langsam-gesprochene-nachrichten/a-18680830" "29082015" &
-getPages "http://www.dw.com/de/28082015-langsam-gesprochene-nachrichten/a-18678838" "28082015" &
-getPages "http://www.dw.com/de/27082015-langsam-gesprochene-nachrichten/a-18676849" "27082015" &
-getPages "http://www.dw.com/de/26082015-langsam-gesprochene-nachrichten/a-18672552" "26082015" &
-getPages "http://www.dw.com/de/25082015-langsam-gesprochene-nachrichten/a-18670469" "25082015" &
-getPages "http://www.dw.com/de/24082015-langsam-gesprochene-nachrichten/a-18668135" "24082015" &
-getPages "http://www.dw.com/de/22082015-langsam-gesprochene-nachrichten/a-18665520" "22082015" &
-getPages "http://www.dw.com/de/21082015-langsam-gesprochene-nachrichten/a-18663608" "21082015" &
-getPages "http://www.dw.com/de/20082015-langsam-gesprochene-nachrichten/a-18659385" "20082015" &
-getPages "http://www.dw.com/de/19082015-langsam-gesprochene-nachrichten/a-18657214" "19082015" &
-getPages "http://www.dw.com/de/18082015-langsam-gesprochene-nachrichten/a-18655034" "18082015" &
-getPages "http://www.dw.com/de/17082015-langsam-gesprochene-nachrichten/a-18653039" "17082015" &
-getPages "http://www.dw.com/de/15082015-langsam-gesprochene-nachrichten/a-18650814" "15082015" &
-getPages "http://www.dw.com/de/14082015-langsam-gesprochene-nachrichten/a-18648863" "14082015" &
-getPages "http://www.dw.com/de/13082015-langsam-gesprochene-nachrichten/a-18646718" "13082015" &
-getPages "http://www.dw.com/de/12082015-langsam-gesprochene-nachrichten/a-18642598" "12082015" &
-getPages "http://www.dw.com/de/11082015-langsam-gesprochene-nachrichten/a-18640136" "11082015" &
-getPages "http://www.dw.com/de/10082015-langsam-gesprochene-nachrichten/a-18637864" "10082015" &
-getPages "http://www.dw.com/de/08082015-langsam-gesprochene-nachrichten/a-18635540" "08082015" &
-getPages "http://www.dw.com/de/07082015-langsam-gesprochene-nachrichten/a-18633594" "07082015" &
-getPages "http://www.dw.com/de/06082015-langsam-gesprochene-nachrichten/a-18631498" "06082015" &
-getPages "http://www.dw.com/de/05082015-langsam-gesprochene-nachrichten/a-18628568" "05082015" &
-getPages "http://www.dw.com/de/04082015-langsam-gesprochene-nachrichten/a-18625407" "04082015" &
-getPages "http://www.dw.com/de/03082015-langsam-gesprochene-nachrichten/a-18623351" "03082015" &
+getPages "http://www.dw.com/de/31082015-langsam-gesprochene-nachrichten/a-18683105" "31082015"
+getPages "http://www.dw.com/de/29082015-langsam-gesprochene-nachrichten/a-18680830" "29082015"
+getPages "http://www.dw.com/de/28082015-langsam-gesprochene-nachrichten/a-18678838" "28082015"
+getPages "http://www.dw.com/de/27082015-langsam-gesprochene-nachrichten/a-18676849" "27082015"
+getPages "http://www.dw.com/de/26082015-langsam-gesprochene-nachrichten/a-18672552" "26082015"
+getPages "http://www.dw.com/de/25082015-langsam-gesprochene-nachrichten/a-18670469" "25082015"
+getPages "http://www.dw.com/de/24082015-langsam-gesprochene-nachrichten/a-18668135" "24082015"
+getPages "http://www.dw.com/de/22082015-langsam-gesprochene-nachrichten/a-18665520" "22082015"
+getPages "http://www.dw.com/de/21082015-langsam-gesprochene-nachrichten/a-18663608" "21082015"
+getPages "http://www.dw.com/de/20082015-langsam-gesprochene-nachrichten/a-18659385" "20082015"
+getPages "http://www.dw.com/de/19082015-langsam-gesprochene-nachrichten/a-18657214" "19082015"
+getPages "http://www.dw.com/de/18082015-langsam-gesprochene-nachrichten/a-18655034" "18082015"
+getPages "http://www.dw.com/de/17082015-langsam-gesprochene-nachrichten/a-18653039" "17082015"
+getPages "http://www.dw.com/de/15082015-langsam-gesprochene-nachrichten/a-18650814" "15082015"
+getPages "http://www.dw.com/de/14082015-langsam-gesprochene-nachrichten/a-18648863" "14082015"
+getPages "http://www.dw.com/de/13082015-langsam-gesprochene-nachrichten/a-18646718" "13082015"
+getPages "http://www.dw.com/de/12082015-langsam-gesprochene-nachrichten/a-18642598" "12082015"
+getPages "http://www.dw.com/de/11082015-langsam-gesprochene-nachrichten/a-18640136" "11082015"
+getPages "http://www.dw.com/de/10082015-langsam-gesprochene-nachrichten/a-18637864" "10082015"
+getPages "http://www.dw.com/de/08082015-langsam-gesprochene-nachrichten/a-18635540" "08082015"
+getPages "http://www.dw.com/de/07082015-langsam-gesprochene-nachrichten/a-18633594" "07082015"
+getPages "http://www.dw.com/de/06082015-langsam-gesprochene-nachrichten/a-18631498" "06082015"
+getPages "http://www.dw.com/de/05082015-langsam-gesprochene-nachrichten/a-18628568" "05082015"
+getPages "http://www.dw.com/de/04082015-langsam-gesprochene-nachrichten/a-18625407" "04082015"
+getPages "http://www.dw.com/de/03082015-langsam-gesprochene-nachrichten/a-18623351" "03082015"
 getPages "http://www.dw.com/de/01082015-langsam-gesprochene-nachrichten/a-18621432" "01082015" &
-getPages "http://www.dw.com/de/31072015-langsam-gesprochene-nachrichten/a-18619525" "31072015" &
-getPages "http://www.dw.com/de/30072015-langsam-gesprochene-nachrichten/a-18617588" "30072015" &
-getPages "http://www.dw.com/de/29072015-langsam-gesprochene-nachrichten/a-18615578" "29072015" &
-getPages "http://www.dw.com/de/28072015-langsam-gesprochene-nachrichten/a-18611192" "28072015" &
-getPages "http://www.dw.com/de/27072015-langsam-gesprochene-nachrichten/a-18609150" "27072015" &
-getPages "http://www.dw.com/de/24072015-langsam-gesprochene-nachrichten/a-18605074" "24072015" &
-getPages "http://www.dw.com/de/23072015-langsam-gesprochene-nachrichten/a-18602998" "23072015" &
-getPages "http://www.dw.com/de/22072015-langsam-gesprochene-nachrichten/a-18598996" "22072015" &
-getPages "http://www.dw.com/de/21072015-langsam-gesprochene-nachrichten/a-18597102" "21072015" &
-getPages "http://www.dw.com/de/20072015-langsam-gesprochene-nachrichten/a-18595114" "20072015" &
-getPages "http://www.dw.com/de/17072015-langsam-gesprochene-nachrichten/a-18591283" "17072015" &
-getPages "http://www.dw.com/de/16072015-langsam-gesprochene-nachrichten/a-18586785" "16072015" &
-getPages "http://www.dw.com/de/15072015-langsam-gesprochene-nachrichten/a-18584719" "15072015" &
-getPages "http://www.dw.com/de/14072015-langsam-gesprochene-nachrichten/a-18582701" "14072015" &
-getPages "http://www.dw.com/de/13072015-langsam-gesprochene-nachrichten/a-18580600" "13072015" &
-getPages "http://www.dw.com/de/10072015-langsam-gesprochene-nachrichten/a-18574818" "10072015" &
-getPages "http://www.dw.com/de/09072015-langsam-gesprochene-nachrichten/a-18572152" "09072015" &
-getPages "http://www.dw.com/de/08072015-langsam-gesprochene-nachrichten/a-18569950" "08072015" &
-getPages "http://www.dw.com/de/07072015-langsam-gesprochene-nachrichten/a-18565904" "07072015" &
-getPages "http://www.dw.com/de/06072015-langsam-gesprochene-nachrichten/a-18563529" "06072015" &
-getPages "http://www.dw.com/de/03072015-langsam-gesprochene-nachrichten/a-18559134" "03072015" &
-getPages "http://www.dw.com/de/02072015-langsam-gesprochene-nachrichten/a-18557252" "02072015" &
+getPages "http://www.dw.com/de/31072015-langsam-gesprochene-nachrichten/a-18619525" "31072015"
+getPages "http://www.dw.com/de/30072015-langsam-gesprochene-nachrichten/a-18617588" "30072015"
+getPages "http://www.dw.com/de/29072015-langsam-gesprochene-nachrichten/a-18615578" "29072015"
+getPages "http://www.dw.com/de/28072015-langsam-gesprochene-nachrichten/a-18611192" "28072015"
+getPages "http://www.dw.com/de/27072015-langsam-gesprochene-nachrichten/a-18609150" "27072015"
+getPages "http://www.dw.com/de/24072015-langsam-gesprochene-nachrichten/a-18605074" "24072015"
+getPages "http://www.dw.com/de/23072015-langsam-gesprochene-nachrichten/a-18602998" "23072015"
+getPages "http://www.dw.com/de/22072015-langsam-gesprochene-nachrichten/a-18598996" "22072015"
+getPages "http://www.dw.com/de/21072015-langsam-gesprochene-nachrichten/a-18597102" "21072015"
+getPages "http://www.dw.com/de/20072015-langsam-gesprochene-nachrichten/a-18595114" "20072015"
+getPages "http://www.dw.com/de/17072015-langsam-gesprochene-nachrichten/a-18591283" "17072015"
+getPages "http://www.dw.com/de/16072015-langsam-gesprochene-nachrichten/a-18586785" "16072015"
+getPages "http://www.dw.com/de/15072015-langsam-gesprochene-nachrichten/a-18584719" "15072015"
+getPages "http://www.dw.com/de/14072015-langsam-gesprochene-nachrichten/a-18582701" "14072015"
+getPages "http://www.dw.com/de/13072015-langsam-gesprochene-nachrichten/a-18580600" "13072015"
+getPages "http://www.dw.com/de/10072015-langsam-gesprochene-nachrichten/a-18574818" "10072015"
+getPages "http://www.dw.com/de/09072015-langsam-gesprochene-nachrichten/a-18572152" "09072015"
+getPages "http://www.dw.com/de/08072015-langsam-gesprochene-nachrichten/a-18569950" "08072015"
+getPages "http://www.dw.com/de/07072015-langsam-gesprochene-nachrichten/a-18565904" "07072015"
+getPages "http://www.dw.com/de/06072015-langsam-gesprochene-nachrichten/a-18563529" "06072015"
+getPages "http://www.dw.com/de/03072015-langsam-gesprochene-nachrichten/a-18559134" "03072015"
+getPages "http://www.dw.com/de/02072015-langsam-gesprochene-nachrichten/a-18557252" "02072015"
 getPages "http://www.dw.com/de/01072015-langsam-gesprochene-nachrichten/a-18555298" "01072015" &
-getPages "http://www.dw.com/de/30062015-langsam-gesprochene-nachrichten/a-18550931" "30062015" &
-getPages "http://www.dw.com/de/29062015-langsam-gesprochene-nachrichten/a-18546570" "29062015" &
-getPages "http://www.dw.com/de/26062015-langsam-gesprochene-nachrichten/a-18541994" "26062015" &
-getPages "http://www.dw.com/de/25062015-langsam-gesprochene-nachrichten/a-18539930" "25062015" &
-getPages "http://www.dw.com/de/24062015-langsam-gesprochene-nachrichten/a-18537836" "24062015" &
-getPages "http://www.dw.com/de/23062015-langsam-gesprochene-nachrichten/a-18535639" "23062015" &
-getPages "http://www.dw.com/de/22062015-langsam-gesprochene-nachrichten/a-18530468" "22062015" &
-getPages "http://www.dw.com/de/19062015-langsam-gesprochene-nachrichten/a-18526500" "19062015" &
-getPages "http://www.dw.com/de/18062015-langsam-gesprochene-nachrichten/a-18523948" "18062015" &
-getPages "http://www.dw.com/de/17062015-langsam-gesprochene-nachrichten/a-18521968" "17062015" &
-getPages "http://www.dw.com/de/16062015-langsam-gesprochene-nachrichten/a-18519557" "16062015" &
-getPages "http://www.dw.com/de/15062015-langsam-gesprochene-nachrichten/a-18517512" "15062015" &
-getPages "http://www.dw.com/de/12062015-langsam-gesprochene-nachrichten/a-18512840" "12062015" &
-getPages "http://www.dw.com/de/11062015-langsam-gesprochene-nachrichten/a-18509738" "11062015" &
-getPages "http://www.dw.com/de/10062015-langsam-gesprochene-nachrichten/a-18506428" "10062015" &
-getPages "http://www.dw.com/de/09062015-langsam-gesprochene-nachrichten/a-18504442" "09062015" &
-getPages "http://www.dw.com/de/08062015-langsam-gesprochene-nachrichten/a-18501991" "08062015" &
-getPages "http://www.dw.com/de/05062015-langsam-gesprochene-nachrichten/a-18497385" "05062015" &
-getPages "http://www.dw.com/de/04062015-langsam-gesprochene-nachrichten/a-18495952" "04062015" &
-getPages "http://www.dw.com/de/03062015-langsam-gesprochene-nachrichten/a-18493501" "03062015" &
-getPages "http://www.dw.com/de/02062015-langsam-gesprochene-nachrichten/a-18491495" "02062015" &
+getPages "http://www.dw.com/de/30062015-langsam-gesprochene-nachrichten/a-18550931" "30062015"
+getPages "http://www.dw.com/de/29062015-langsam-gesprochene-nachrichten/a-18546570" "29062015"
+getPages "http://www.dw.com/de/26062015-langsam-gesprochene-nachrichten/a-18541994" "26062015"
+getPages "http://www.dw.com/de/25062015-langsam-gesprochene-nachrichten/a-18539930" "25062015"
+getPages "http://www.dw.com/de/24062015-langsam-gesprochene-nachrichten/a-18537836" "24062015"
+getPages "http://www.dw.com/de/23062015-langsam-gesprochene-nachrichten/a-18535639" "23062015"
+getPages "http://www.dw.com/de/22062015-langsam-gesprochene-nachrichten/a-18530468" "22062015"
+getPages "http://www.dw.com/de/19062015-langsam-gesprochene-nachrichten/a-18526500" "19062015"
+getPages "http://www.dw.com/de/18062015-langsam-gesprochene-nachrichten/a-18523948" "18062015"
+getPages "http://www.dw.com/de/17062015-langsam-gesprochene-nachrichten/a-18521968" "17062015"
+getPages "http://www.dw.com/de/16062015-langsam-gesprochene-nachrichten/a-18519557" "16062015"
+getPages "http://www.dw.com/de/15062015-langsam-gesprochene-nachrichten/a-18517512" "15062015"
+getPages "http://www.dw.com/de/12062015-langsam-gesprochene-nachrichten/a-18512840" "12062015"
+getPages "http://www.dw.com/de/11062015-langsam-gesprochene-nachrichten/a-18509738" "11062015"
+getPages "http://www.dw.com/de/10062015-langsam-gesprochene-nachrichten/a-18506428" "10062015"
+getPages "http://www.dw.com/de/09062015-langsam-gesprochene-nachrichten/a-18504442" "09062015"
+getPages "http://www.dw.com/de/08062015-langsam-gesprochene-nachrichten/a-18501991" "08062015"
+getPages "http://www.dw.com/de/05062015-langsam-gesprochene-nachrichten/a-18497385" "05062015"
+getPages "http://www.dw.com/de/04062015-langsam-gesprochene-nachrichten/a-18495952" "04062015"
+getPages "http://www.dw.com/de/03062015-langsam-gesprochene-nachrichten/a-18493501" "03062015"
+getPages "http://www.dw.com/de/02062015-langsam-gesprochene-nachrichten/a-18491495" "02062015"
 getPages "http://www.dw.com/de/01062015-langsam-gesprochene-nachrichten/a-18489455" "01062015" &
-getPages "http://www.dw.com/de/29052015-langsam-gesprochene-nachrichten/a-18484316" "29052015" &
-getPages "http://www.dw.com/de/28052015-langsam-gesprochene-nachrichten/a-18480256" "28052015" &
-getPages "http://www.dw.com/de/27052015-langsam-gesprochene-nachrichten/a-18478056" "27052015" &
-getPages "http://www.dw.com/de/26052015-langsam-gesprochene-nachrichten/a-18475730" "26052015" &
-getPages "http://www.dw.com/de/25052015-langsam-gesprochene-nachrichten/a-18474265" "25052015" &
-getPages "http://www.dw.com/de/22052015-langsam-gesprochene-nachrichten/a-18466893" "22052015" &
-getPages "http://www.dw.com/de/21052015-langsam-gesprochene-nachrichten/a-18464892" "21052015" &
-getPages "http://www.dw.com/de/20052015-langsam-gesprochene-nachrichten/a-18462678" "20052015" &
-getPages "http://www.dw.com/de/19052015-langsam-gesprochene-nachrichten/a-18457998" "19052015" &
-getPages "http://www.dw.com/de/18052015-langsam-gesprochene-nachrichten/a-18455832" "18052015" &
-getPages "http://www.dw.com/de/15052015-langsam-gesprochene-nachrichten/a-18451241" "15052015" &
-getPages "http://www.dw.com/de/14052015-langsam-gesprochene-nachrichten/a-18449740" "14052015" &
-getPages "http://www.dw.com/de/13052015-langsam-gesprochene-nachrichten/a-18447642" "13052015" &
-getPages "http://www.dw.com/de/12052015-langsam-gesprochene-nachrichten/a-18445332" "12052015" &
-getPages "http://www.dw.com/de/11052015-langsam-gesprochene-nachrichten/a-18442991" "11052015" &
-getPages "http://www.dw.com/de/08052015-langsam-gesprochene-nachrichten/a-18438477" "08052015" &
-getPages "http://www.dw.com/de/07052015-langsam-gesprochene-nachrichten/a-18436117" "07052015" &
-getPages "http://www.dw.com/de/06052015-langsam-gesprochene-nachrichten/a-18431054" "06052015" &
-getPages "http://www.dw.com/de/05052015-langsam-gesprochene-nachrichten/a-18429055" "05052015" &
-getPages "http://www.dw.com/de/04052015-langsam-gesprochene-nachrichten/a-18426556" "04052015" &
+getPages "http://www.dw.com/de/29052015-langsam-gesprochene-nachrichten/a-18484316" "29052015"
+getPages "http://www.dw.com/de/28052015-langsam-gesprochene-nachrichten/a-18480256" "28052015"
+getPages "http://www.dw.com/de/27052015-langsam-gesprochene-nachrichten/a-18478056" "27052015"
+getPages "http://www.dw.com/de/26052015-langsam-gesprochene-nachrichten/a-18475730" "26052015"
+getPages "http://www.dw.com/de/25052015-langsam-gesprochene-nachrichten/a-18474265" "25052015"
+getPages "http://www.dw.com/de/22052015-langsam-gesprochene-nachrichten/a-18466893" "22052015"
+getPages "http://www.dw.com/de/21052015-langsam-gesprochene-nachrichten/a-18464892" "21052015"
+getPages "http://www.dw.com/de/20052015-langsam-gesprochene-nachrichten/a-18462678" "20052015"
+getPages "http://www.dw.com/de/19052015-langsam-gesprochene-nachrichten/a-18457998" "19052015"
+getPages "http://www.dw.com/de/18052015-langsam-gesprochene-nachrichten/a-18455832" "18052015"
+getPages "http://www.dw.com/de/15052015-langsam-gesprochene-nachrichten/a-18451241" "15052015"
+getPages "http://www.dw.com/de/14052015-langsam-gesprochene-nachrichten/a-18449740" "14052015"
+getPages "http://www.dw.com/de/13052015-langsam-gesprochene-nachrichten/a-18447642" "13052015"
+getPages "http://www.dw.com/de/12052015-langsam-gesprochene-nachrichten/a-18445332" "12052015"
+getPages "http://www.dw.com/de/11052015-langsam-gesprochene-nachrichten/a-18442991" "11052015"
+getPages "http://www.dw.com/de/08052015-langsam-gesprochene-nachrichten/a-18438477" "08052015"
+getPages "http://www.dw.com/de/07052015-langsam-gesprochene-nachrichten/a-18436117" "07052015"
+getPages "http://www.dw.com/de/06052015-langsam-gesprochene-nachrichten/a-18431054" "06052015"
+getPages "http://www.dw.com/de/05052015-langsam-gesprochene-nachrichten/a-18429055" "05052015"
+getPages "http://www.dw.com/de/04052015-langsam-gesprochene-nachrichten/a-18426556" "04052015"
 getPages "http://www.dw.com/de/01052015-langsam-gesprochene-nachrichten/a-18422939" "01052015" &
-getPages "http://www.dw.com/de/30042015-langsam-gesprochene-nachrichten/a-18420219" "30042015" &
-getPages "http://www.dw.com/de/29042015-langsam-gesprochene-nachrichten/a-18416445" "29042015" &
-getPages "http://www.dw.com/de/28042015-langsam-gesprochene-nachrichten/a-18412752" "28042015" &
-getPages "http://www.dw.com/de/27042015-langsam-gesprochene-nachrichten/a-18410247" "27042015" &
-getPages "http://www.dw.com/de/24042015-langsam-gesprochene-nachrichten/a-18405672" "24042015" &
-getPages "http://www.dw.com/de/23042015-langsam-gesprochene-nachrichten/a-18402411" "23042015" &
-getPages "http://www.dw.com/de/22042015-langsam-gesprochene-nachrichten/a-18398044" "22042015" &
-getPages "http://www.dw.com/de/21042015-langsam-gesprochene-nachrichten/a-18395588" "21042015" &
-getPages "http://www.dw.com/de/20042015-langsam-gesprochene-nachrichten/a-18393299" "20042015" &
-getPages "http://www.dw.com/de/17042015-langsam-gesprochene-nachrichten/a-18389137" "17042015" &
-getPages "http://www.dw.com/de/16042015-langsam-gesprochene-nachrichten/a-18386697" "16042015" &
-getPages "http://www.dw.com/de/15042015-langsam-gesprochene-nachrichten/a-18384444" "15042015" &
-getPages "http://www.dw.com/de/14042015-langsam-gesprochene-nachrichten/a-18379819" "14042015" &
-getPages "http://www.dw.com/de/13042015-langsam-gesprochene-nachrichten/a-18377446" "13042015" &
-getPages "http://www.dw.com/de/10042015-langsam-gesprochene-nachrichten/a-18373112" "10042015" &
-getPages "http://www.dw.com/de/09042015-langsam-gesprochene-nachrichten/a-18371199" "09042015" &
-getPages "http://www.dw.com/de/08042015-langsam-gesprochene-nachrichten/a-18366498" "08042015" &
-getPages "http://www.dw.com/de/07042015-langsam-gesprochene-nachrichten/a-18364357" "07042015" &
-getPages "http://www.dw.com/de/06042015-langsam-gesprochene-nachrichten/a-18363135" "06042015" &
-getPages "http://www.dw.com/de/03042015-langsam-gesprochene-nachrichten/a-18360087" "03042015" &
-getPages "http://www.dw.com/de/02042015-langsam-gesprochene-nachrichten/a-18357682" "02042015" &
+getPages "http://www.dw.com/de/30042015-langsam-gesprochene-nachrichten/a-18420219" "30042015"
+getPages "http://www.dw.com/de/29042015-langsam-gesprochene-nachrichten/a-18416445" "29042015"
+getPages "http://www.dw.com/de/28042015-langsam-gesprochene-nachrichten/a-18412752" "28042015"
+getPages "http://www.dw.com/de/27042015-langsam-gesprochene-nachrichten/a-18410247" "27042015"
+getPages "http://www.dw.com/de/24042015-langsam-gesprochene-nachrichten/a-18405672" "24042015"
+getPages "http://www.dw.com/de/23042015-langsam-gesprochene-nachrichten/a-18402411" "23042015"
+getPages "http://www.dw.com/de/22042015-langsam-gesprochene-nachrichten/a-18398044" "22042015"
+getPages "http://www.dw.com/de/21042015-langsam-gesprochene-nachrichten/a-18395588" "21042015"
+getPages "http://www.dw.com/de/20042015-langsam-gesprochene-nachrichten/a-18393299" "20042015"
+getPages "http://www.dw.com/de/17042015-langsam-gesprochene-nachrichten/a-18389137" "17042015"
+getPages "http://www.dw.com/de/16042015-langsam-gesprochene-nachrichten/a-18386697" "16042015"
+getPages "http://www.dw.com/de/15042015-langsam-gesprochene-nachrichten/a-18384444" "15042015"
+getPages "http://www.dw.com/de/14042015-langsam-gesprochene-nachrichten/a-18379819" "14042015"
+getPages "http://www.dw.com/de/13042015-langsam-gesprochene-nachrichten/a-18377446" "13042015"
+getPages "http://www.dw.com/de/10042015-langsam-gesprochene-nachrichten/a-18373112" "10042015"
+getPages "http://www.dw.com/de/09042015-langsam-gesprochene-nachrichten/a-18371199" "09042015"
+getPages "http://www.dw.com/de/08042015-langsam-gesprochene-nachrichten/a-18366498" "08042015"
+getPages "http://www.dw.com/de/07042015-langsam-gesprochene-nachrichten/a-18364357" "07042015"
+getPages "http://www.dw.com/de/06042015-langsam-gesprochene-nachrichten/a-18363135" "06042015"
+getPages "http://www.dw.com/de/03042015-langsam-gesprochene-nachrichten/a-18360087" "03042015"
+getPages "http://www.dw.com/de/02042015-langsam-gesprochene-nachrichten/a-18357682" "02042015"
 getPages "http://www.dw.com/de/01042015-langsam-gesprochene-nachrichten/a-18353108" "01042015" &
-getPages "http://www.dw.com/de/31032015-langsam-gesprochene-nachrichten/a-18350827" "31032015" &
-getPages "http://www.dw.com/de/30032015-langsam-gesprochene-nachrichten/a-18348915" "30032015" &
-getPages "http://www.dw.com/de/27032015-langsam-gesprochene-nachrichten/a-18344784" "27032015" &
-getPages "http://www.dw.com/de/26032015-langsam-gesprochene-nachrichten/a-18342549" "26032015" &
-getPages "http://www.dw.com/de/25032015-langsam-gesprochene-nachrichten/a-18340526" "25032015" &
-getPages "http://www.dw.com/de/24032015-langsam-gesprochene-nachrichten/a-18335782" "24032015" &
-getPages "http://www.dw.com/de/23032015-langsam-gesprochene-nachrichten/a-18333738" "23032015" &
-getPages "http://www.dw.com/de/20032015-langsam-gesprochene-nachrichten/a-18329679" "20032015" &
-getPages "http://www.dw.com/de/19032015-langsam-gesprochene-nachrichten/a-18324570" "19032015" &
-getPages "http://www.dw.com/de/18032015-langsam-gesprochene-nachrichten/a-18322362" "18032015" &
-getPages "http://www.dw.com/de/17032015-langsam-gesprochene-nachrichten/a-18320227" "17032015" &
-getPages "http://www.dw.com/de/16032015-langsam-gesprochene-nachrichten/a-18318042" "16032015" &
-getPages "http://www.dw.com/de/13032015-langsam-gesprochene-nachrichten/a-18313383" "13032015" &
-getPages "http://www.dw.com/de/12032015-langsam-gesprochene-nachrichten/a-18309295" "12032015" &
-getPages "http://www.dw.com/de/11032015-langsam-gesprochene-nachrichten/a-18307307" "11032015" &
-getPages "http://www.dw.com/de/10032015-langsam-gesprochene-nachrichten/a-18305071" "10032015" &
-getPages "http://www.dw.com/de/09032015-langsam-gesprochene-nachrichten/a-18303229" "09032015" &
-getPages "http://www.dw.com/de/06032015-langsam-gesprochene-nachrichten/a-18299301" "06032015" &
-getPages "http://www.dw.com/de/05032015-langsam-gesprochene-nachrichten/a-18294663" "05032015" &
-getPages "http://www.dw.com/de/04032015-langsam-gesprochene-nachrichten/a-18292668" "04032015" &
-getPages "http://www.dw.com/de/03032015-langsam-gesprochene-nachrichten/a-18290379" "03032015" &
+getPages "http://www.dw.com/de/31032015-langsam-gesprochene-nachrichten/a-18350827" "31032015"
+getPages "http://www.dw.com/de/30032015-langsam-gesprochene-nachrichten/a-18348915" "30032015"
+getPages "http://www.dw.com/de/27032015-langsam-gesprochene-nachrichten/a-18344784" "27032015"
+getPages "http://www.dw.com/de/26032015-langsam-gesprochene-nachrichten/a-18342549" "26032015"
+getPages "http://www.dw.com/de/25032015-langsam-gesprochene-nachrichten/a-18340526" "25032015"
+getPages "http://www.dw.com/de/24032015-langsam-gesprochene-nachrichten/a-18335782" "24032015"
+getPages "http://www.dw.com/de/23032015-langsam-gesprochene-nachrichten/a-18333738" "23032015"
+getPages "http://www.dw.com/de/20032015-langsam-gesprochene-nachrichten/a-18329679" "20032015"
+getPages "http://www.dw.com/de/19032015-langsam-gesprochene-nachrichten/a-18324570" "19032015"
+getPages "http://www.dw.com/de/18032015-langsam-gesprochene-nachrichten/a-18322362" "18032015"
+getPages "http://www.dw.com/de/17032015-langsam-gesprochene-nachrichten/a-18320227" "17032015"
+getPages "http://www.dw.com/de/16032015-langsam-gesprochene-nachrichten/a-18318042" "16032015"
+getPages "http://www.dw.com/de/13032015-langsam-gesprochene-nachrichten/a-18313383" "13032015"
+getPages "http://www.dw.com/de/12032015-langsam-gesprochene-nachrichten/a-18309295" "12032015"
+getPages "http://www.dw.com/de/11032015-langsam-gesprochene-nachrichten/a-18307307" "11032015"
+getPages "http://www.dw.com/de/10032015-langsam-gesprochene-nachrichten/a-18305071" "10032015"
+getPages "http://www.dw.com/de/09032015-langsam-gesprochene-nachrichten/a-18303229" "09032015"
+getPages "http://www.dw.com/de/06032015-langsam-gesprochene-nachrichten/a-18299301" "06032015"
+getPages "http://www.dw.com/de/05032015-langsam-gesprochene-nachrichten/a-18294663" "05032015"
+getPages "http://www.dw.com/de/04032015-langsam-gesprochene-nachrichten/a-18292668" "04032015"
+getPages "http://www.dw.com/de/03032015-langsam-gesprochene-nachrichten/a-18290379" "03032015"
 getPages "http://www.dw.com/de/02032015-langsam-gesprochene-nachrichten/a-18288488" "02032015" &
-getPages "http://www.dw.com/de/27022015-langsam-gesprochene-nachrichten/a-18284250" "27022015" &
-getPages "http://www.dw.com/de/26022015-langsam-gesprochene-nachrichten/a-18282360" "26022015" &
-getPages "http://www.dw.com/de/25022015-langsam-gesprochene-nachrichten/a-18278010" "25022015" &
-getPages "http://www.dw.com/de/24022015-langsam-gesprochene-nachrichten/a-18275911" "24022015" &
-getPages "http://www.dw.com/de/23022015-langsam-gesprochene-nachrichten/a-18274156" "23022015" &
-getPages "http://www.dw.com/de/20022015-langsam-gesprochene-nachrichten/a-18270317" "20022015" &
-getPages "http://www.dw.com/de/19022015-langsam-gesprochene-nachrichten/a-18268251" "19022015" &
-getPages "http://www.dw.com/de/18022015-langsam-gesprochene-nachrichten/a-18265094" "18022015" &
-getPages "http://www.dw.com/de/17022015-langsam-gesprochene-nachrichten/a-18261884" "17022015" &
-getPages "http://www.dw.com/de/16022015-langsam-gesprochene-nachrichten/a-18259923" "16022015" &
-getPages "http://www.dw.com/de/13022015-langsam-gesprochene-nachrichten/a-18255511" "13022015" &
-getPages "http://www.dw.com/de/12022015-langsam-gesprochene-nachrichten/a-18251022" "12022015" &
-getPages "http://www.dw.com/de/11022015-langsam-gesprochene-nachrichten/a-18249015" "11022015" &
-getPages "http://www.dw.com/de/10022015-langsam-gesprochene-nachrichten/a-18247177" "10022015" &
-getPages "http://www.dw.com/de/09022015-langsam-gesprochene-nachrichten/a-18244251" "09022015" &
-getPages "http://www.dw.com/de/06022015-langsam-gesprochene-nachrichten/a-18237440" "06022015" &
-getPages "http://www.dw.com/de/05022015-langsam-gesprochene-nachrichten/a-18235346" "05022015" &
-getPages "http://www.dw.com/de/04022015-langsam-gesprochene-nachrichten/a-18233238" "04022015" &
-getPages "http://www.dw.com/de/03022015-langsam-gesprochene-nachrichten/a-18231343" "03022015" &
+getPages "http://www.dw.com/de/27022015-langsam-gesprochene-nachrichten/a-18284250" "27022015"
+getPages "http://www.dw.com/de/26022015-langsam-gesprochene-nachrichten/a-18282360" "26022015"
+getPages "http://www.dw.com/de/25022015-langsam-gesprochene-nachrichten/a-18278010" "25022015"
+getPages "http://www.dw.com/de/24022015-langsam-gesprochene-nachrichten/a-18275911" "24022015"
+getPages "http://www.dw.com/de/23022015-langsam-gesprochene-nachrichten/a-18274156" "23022015"
+getPages "http://www.dw.com/de/20022015-langsam-gesprochene-nachrichten/a-18270317" "20022015"
+getPages "http://www.dw.com/de/19022015-langsam-gesprochene-nachrichten/a-18268251" "19022015"
+getPages "http://www.dw.com/de/18022015-langsam-gesprochene-nachrichten/a-18265094" "18022015"
+getPages "http://www.dw.com/de/17022015-langsam-gesprochene-nachrichten/a-18261884" "17022015"
+getPages "http://www.dw.com/de/16022015-langsam-gesprochene-nachrichten/a-18259923" "16022015"
+getPages "http://www.dw.com/de/13022015-langsam-gesprochene-nachrichten/a-18255511" "13022015"
+getPages "http://www.dw.com/de/12022015-langsam-gesprochene-nachrichten/a-18251022" "12022015"
+getPages "http://www.dw.com/de/11022015-langsam-gesprochene-nachrichten/a-18249015" "11022015"
+getPages "http://www.dw.com/de/10022015-langsam-gesprochene-nachrichten/a-18247177" "10022015"
+getPages "http://www.dw.com/de/09022015-langsam-gesprochene-nachrichten/a-18244251" "09022015"
+getPages "http://www.dw.com/de/06022015-langsam-gesprochene-nachrichten/a-18237440" "06022015"
+getPages "http://www.dw.com/de/05022015-langsam-gesprochene-nachrichten/a-18235346" "05022015"
+getPages "http://www.dw.com/de/04022015-langsam-gesprochene-nachrichten/a-18233238" "04022015"
+getPages "http://www.dw.com/de/03022015-langsam-gesprochene-nachrichten/a-18231343" "03022015"
 getPages "http://www.dw.com/de/02022015-langsam-gesprochene-nachrichten/a-18229312" "02022015" &
-getPages "http://www.dw.com/de/30012015-langsam-gesprochene-nachrichten/a-18225524" "30012015" &
-getPages "http://www.dw.com/de/29012015-langsam-gesprochene-nachrichten/a-18222586" "29012015" &
-getPages "http://www.dw.com/de/28012015-langsam-gesprochene-nachrichten/a-18220426" "28012015" &
-getPages "http://www.dw.com/de/27012015-langsam-gesprochene-nachrichten/a-18216544" "27012015" &
-getPages "http://www.dw.com/de/26012015-langsam-gesprochene-nachrichten/a-18214420" "26012015" &
-getPages "http://www.dw.com/de/23012015-langsam-gesprochene-nachrichten/a-18210628" "23012015" &
-getPages "http://www.dw.com/de/22012015-langsam-gesprochene-nachrichten/a-18208512" "22012015" &
-getPages "http://www.dw.com/de/21012015-langsam-gesprochene-nachrichten/a-18203768" "21012015" &
-getPages "http://www.dw.com/de/20012015-langsam-gesprochene-nachrichten/a-18201668" "20012015" &
-getPages "http://www.dw.com/de/19012015-langsam-gesprochene-nachrichten/a-18199424" "19012015" &
-getPages "http://www.dw.com/de/16012015-langsam-gesprochene-nachrichten/a-18195516" "16012015" &
-getPages "http://www.dw.com/de/15012015-langsam-gesprochene-nachrichten/a-18192746" "15012015" &
-getPages "http://www.dw.com/de/14012015-langsam-gesprochene-nachrichten/a-18189047" "14012015" &
-getPages "http://www.dw.com/de/13012015-langsam-gesprochene-nachrichten/a-18187139" "13012015" &
-getPages "http://www.dw.com/de/12012015-langsam-gesprochene-nachrichten/a-18185138" "12012015" &
-getPages "http://www.dw.com/de/09012015-langsam-gesprochene-nachrichten/a-18181074" "09012015" &
-getPages "http://www.dw.com/de/08012015-langsam-gesprochene-nachrichten/a-18176555" "08012015" &
-getPages "http://www.dw.com/de/07012015-langsam-gesprochene-nachrichten/a-18174439" "07012015" &
-getPages "http://www.dw.com/de/06012015-langsam-gesprochene-nachrichten/a-18172412" "06012015" &
-getPages "http://www.dw.com/de/05012015-langsam-gesprochene-nachrichten/a-18170587" "05012015" &
-getPages "http://www.dw.com/de/02012015-langsam-gesprochene-nachrichten/a-18167163" "02012015" &
+getPages "http://www.dw.com/de/30012015-langsam-gesprochene-nachrichten/a-18225524" "30012015"
+getPages "http://www.dw.com/de/29012015-langsam-gesprochene-nachrichten/a-18222586" "29012015"
+getPages "http://www.dw.com/de/28012015-langsam-gesprochene-nachrichten/a-18220426" "28012015"
+getPages "http://www.dw.com/de/27012015-langsam-gesprochene-nachrichten/a-18216544" "27012015"
+getPages "http://www.dw.com/de/26012015-langsam-gesprochene-nachrichten/a-18214420" "26012015"
+getPages "http://www.dw.com/de/23012015-langsam-gesprochene-nachrichten/a-18210628" "23012015"
+getPages "http://www.dw.com/de/22012015-langsam-gesprochene-nachrichten/a-18208512" "22012015"
+getPages "http://www.dw.com/de/21012015-langsam-gesprochene-nachrichten/a-18203768" "21012015"
+getPages "http://www.dw.com/de/20012015-langsam-gesprochene-nachrichten/a-18201668" "20012015"
+getPages "http://www.dw.com/de/19012015-langsam-gesprochene-nachrichten/a-18199424" "19012015"
+getPages "http://www.dw.com/de/16012015-langsam-gesprochene-nachrichten/a-18195516" "16012015"
+getPages "http://www.dw.com/de/15012015-langsam-gesprochene-nachrichten/a-18192746" "15012015"
+getPages "http://www.dw.com/de/14012015-langsam-gesprochene-nachrichten/a-18189047" "14012015"
+getPages "http://www.dw.com/de/13012015-langsam-gesprochene-nachrichten/a-18187139" "13012015"
+getPages "http://www.dw.com/de/12012015-langsam-gesprochene-nachrichten/a-18185138" "12012015"
+getPages "http://www.dw.com/de/09012015-langsam-gesprochene-nachrichten/a-18181074" "09012015"
+getPages "http://www.dw.com/de/08012015-langsam-gesprochene-nachrichten/a-18176555" "08012015"
+getPages "http://www.dw.com/de/07012015-langsam-gesprochene-nachrichten/a-18174439" "07012015"
+getPages "http://www.dw.com/de/06012015-langsam-gesprochene-nachrichten/a-18172412" "06012015"
+getPages "http://www.dw.com/de/05012015-langsam-gesprochene-nachrichten/a-18170587" "05012015"
+getPages "http://www.dw.com/de/02012015-langsam-gesprochene-nachrichten/a-18167163" "02012015"
 getPages "http://www.dw.com/de/01012015-langsam-gesprochene-nachrichten/a-18165998" "01012015" &
-getPages "http://www.dw.com/de/31122014-langsam-gesprochene-nachrichten/a-18164832" "31122014" &
-getPages "http://www.dw.com/de/30122014-langsam-gesprochene-nachrichten/a-18160057" "30122014" &
-getPages "http://www.dw.com/de/29122014-langsam-gesprochene-nachrichten/a-18155443" "29122014" &
-getPages "http://www.dw.com/de/26122014-langsam-gesprochene-nachrichten/a-18152428" "26122014" &
-getPages "http://www.dw.com/de/25122014-langsam-gesprochene-nachrichten/a-18151208" "25122014" &
-getPages "http://www.dw.com/de/24122014-langsam-gesprochene-nachrichten/a-18149822" "24122014" &
-getPages "http://www.dw.com/de/23122014-langsam-gesprochene-nachrichten/a-18147778" "23122014" &
-getPages "http://www.dw.com/de/22122014-langsam-gesprochene-nachrichten/a-18145591" "22122014" &
-getPages "http://www.dw.com/de/19122014-langsam-gesprochene-nachrichten/a-18141135" "19122014" &
-getPages "http://www.dw.com/de/18122014-langsam-gesprochene-nachrichten/a-18138444" "18122014" &
-getPages "http://www.dw.com/de/17122014-langsam-gesprochene-nachrichten/a-18136151" "17122014" &
-getPages "http://www.dw.com/de/16122014-langsam-gesprochene-nachrichten/a-18133795" "16122014" &
-getPages "http://www.dw.com/de/15122014-langsam-gesprochene-nachrichten/a-18129159" "15122014" &
-getPages "http://www.dw.com/de/12122014-langsam-gesprochene-nachrichten/a-18124883" "12122014" &
-getPages "http://www.dw.com/de/11122014-langsam-gesprochene-nachrichten/a-18122510" "11122014" &
-getPages "http://www.dw.com/de/10122014-langsam-gesprochene-nachrichten/a-18119950" "10122014" &
-getPages "http://www.dw.com/de/09122014-langsam-gesprochene-nachrichten/a-18117848" "09122014" &
-getPages "http://www.dw.com/de/08122014-langsam-gesprochene-nachrichten/a-18115553" "08122014" &
-getPages "http://www.dw.com/de/05122014-langsam-gesprochene-nachrichten/a-18111326" "05122014" &
-getPages "http://www.dw.com/de/04122014-langsam-gesprochene-nachrichten/a-18109436" "04122014" &
-getPages "http://www.dw.com/de/03122014-langsam-gesprochene-nachrichten/a-18107411" "03122014" &
-getPages "http://www.dw.com/de/02122014-langsam-gesprochene-nachrichten/a-18105211" "02122014" &
+getPages "http://www.dw.com/de/31122014-langsam-gesprochene-nachrichten/a-18164832" "31122014"
+getPages "http://www.dw.com/de/30122014-langsam-gesprochene-nachrichten/a-18160057" "30122014"
+getPages "http://www.dw.com/de/29122014-langsam-gesprochene-nachrichten/a-18155443" "29122014"
+getPages "http://www.dw.com/de/26122014-langsam-gesprochene-nachrichten/a-18152428" "26122014"
+getPages "http://www.dw.com/de/25122014-langsam-gesprochene-nachrichten/a-18151208" "25122014"
+getPages "http://www.dw.com/de/24122014-langsam-gesprochene-nachrichten/a-18149822" "24122014"
+getPages "http://www.dw.com/de/23122014-langsam-gesprochene-nachrichten/a-18147778" "23122014"
+getPages "http://www.dw.com/de/22122014-langsam-gesprochene-nachrichten/a-18145591" "22122014"
+getPages "http://www.dw.com/de/19122014-langsam-gesprochene-nachrichten/a-18141135" "19122014"
+getPages "http://www.dw.com/de/18122014-langsam-gesprochene-nachrichten/a-18138444" "18122014"
+getPages "http://www.dw.com/de/17122014-langsam-gesprochene-nachrichten/a-18136151" "17122014"
+getPages "http://www.dw.com/de/16122014-langsam-gesprochene-nachrichten/a-18133795" "16122014"
+getPages "http://www.dw.com/de/15122014-langsam-gesprochene-nachrichten/a-18129159" "15122014"
+getPages "http://www.dw.com/de/12122014-langsam-gesprochene-nachrichten/a-18124883" "12122014"
+getPages "http://www.dw.com/de/11122014-langsam-gesprochene-nachrichten/a-18122510" "11122014"
+getPages "http://www.dw.com/de/10122014-langsam-gesprochene-nachrichten/a-18119950" "10122014"
+getPages "http://www.dw.com/de/09122014-langsam-gesprochene-nachrichten/a-18117848" "09122014"
+getPages "http://www.dw.com/de/08122014-langsam-gesprochene-nachrichten/a-18115553" "08122014"
+getPages "http://www.dw.com/de/05122014-langsam-gesprochene-nachrichten/a-18111326" "05122014"
+getPages "http://www.dw.com/de/04122014-langsam-gesprochene-nachrichten/a-18109436" "04122014"
+getPages "http://www.dw.com/de/03122014-langsam-gesprochene-nachrichten/a-18107411" "03122014"
+getPages "http://www.dw.com/de/02122014-langsam-gesprochene-nachrichten/a-18105211" "02122014"
 getPages "http://www.dw.com/de/01122014-langsam-gesprochene-nachrichten/a-18103165" "01122014" &
-getPages "http://www.dw.com/de/28112014-langsam-gesprochene-nachrichten/a-18096916" "28112014" &
-getPages "http://www.dw.com/de/27112014-langsam-gesprochene-nachrichten/a-18091596" "27112014" &
-getPages "http://www.dw.com/de/26112014-langsam-gesprochene-nachrichten/a-18089177" "26112014" &
-getPages "http://www.dw.com/de/25112014-langsam-gesprochene-nachrichten/a-18084686" "25112014" &
-getPages "http://www.dw.com/de/24112014-langsam-gesprochene-nachrichten/a-18083109" "24112014" &
-getPages "http://www.dw.com/de/21112014-langsam-gesprochene-nachrichten/a-18077850" "21112014" &
-getPages "http://www.dw.com/de/20112014-langsam-gesprochene-nachrichten/a-18075298" "20112014" &
-getPages "http://www.dw.com/de/19112014-langsam-gesprochene-nachrichten/a-18072787" "19112014" &
-getPages "http://www.dw.com/de/18112014-langsam-gesprochene-nachrichten/a-18070736" "18112014" &
-getPages "http://www.dw.com/de/17112014-langsam-gesprochene-nachrichten/a-18068717" "17112014" &
-getPages "http://www.dw.com/de/14112014-langsam-gesprochene-nachrichten/a-18062150" "14112014" &
-getPages "http://www.dw.com/de/13112014-langsam-gesprochene-nachrichten/a-18059979" "13112014" &
-getPages "http://www.dw.com/de/12112014-langsam-gesprochene-nachrichten/a-18057911" "12112014" &
-getPages "http://www.dw.com/de/11112014-langsam-gesprochene-nachrichten/a-18055682" "11112014" &
-getPages "http://www.dw.com/de/10112014-langsam-gesprochene-nachrichten/a-18050962" "10112014" &
-getPages "http://www.dw.com/de/07112014-langsam-gesprochene-nachrichten/a-18046771" "07112014" &
-getPages "http://www.dw.com/de/06112014-langsam-gesprochene-nachrichten/a-18044492" "06112014" &
-getPages "http://www.dw.com/de/05112014-langsam-gesprochene-nachrichten/a-18039690" "05112014" &
-getPages "http://www.dw.com/de/04112014-langsam-gesprochene-nachrichten/a-18037837" "04112014" &
+getPages "http://www.dw.com/de/28112014-langsam-gesprochene-nachrichten/a-18096916" "28112014"
+getPages "http://www.dw.com/de/27112014-langsam-gesprochene-nachrichten/a-18091596" "27112014"
+getPages "http://www.dw.com/de/26112014-langsam-gesprochene-nachrichten/a-18089177" "26112014"
+getPages "http://www.dw.com/de/25112014-langsam-gesprochene-nachrichten/a-18084686" "25112014"
+getPages "http://www.dw.com/de/24112014-langsam-gesprochene-nachrichten/a-18083109" "24112014"
+getPages "http://www.dw.com/de/21112014-langsam-gesprochene-nachrichten/a-18077850" "21112014"
+getPages "http://www.dw.com/de/20112014-langsam-gesprochene-nachrichten/a-18075298" "20112014"
+getPages "http://www.dw.com/de/19112014-langsam-gesprochene-nachrichten/a-18072787" "19112014"
+getPages "http://www.dw.com/de/18112014-langsam-gesprochene-nachrichten/a-18070736" "18112014"
+getPages "http://www.dw.com/de/17112014-langsam-gesprochene-nachrichten/a-18068717" "17112014"
+getPages "http://www.dw.com/de/14112014-langsam-gesprochene-nachrichten/a-18062150" "14112014"
+getPages "http://www.dw.com/de/13112014-langsam-gesprochene-nachrichten/a-18059979" "13112014"
+getPages "http://www.dw.com/de/12112014-langsam-gesprochene-nachrichten/a-18057911" "12112014"
+getPages "http://www.dw.com/de/11112014-langsam-gesprochene-nachrichten/a-18055682" "11112014"
+getPages "http://www.dw.com/de/10112014-langsam-gesprochene-nachrichten/a-18050962" "10112014"
+getPages "http://www.dw.com/de/07112014-langsam-gesprochene-nachrichten/a-18046771" "07112014"
+getPages "http://www.dw.com/de/06112014-langsam-gesprochene-nachrichten/a-18044492" "06112014"
+getPages "http://www.dw.com/de/05112014-langsam-gesprochene-nachrichten/a-18039690" "05112014"
+getPages "http://www.dw.com/de/04112014-langsam-gesprochene-nachrichten/a-18037837" "04112014"
 getPages "http://www.dw.com/de/03112014-langsam-gesprochene-nachrichten/a-18035847" "03112014" &
-getPages "http://www.dw.com/de/31102014-langsam-gesprochene-nachrichten/a-18032197" "31102014" &
-getPages "http://www.dw.com/de/30102014-langsam-gesprochene-nachrichten/a-18029489" "30102014" &
-getPages "http://www.dw.com/de/29102014-langsam-gesprochene-nachrichten/a-18027060" "29102014" &
-getPages "http://www.dw.com/de/28102014-langsam-gesprochene-nachrichten/a-18024885" "28102014" &
-getPages "http://www.dw.com/de/27102014-langsam-gesprochene-nachrichten/a-18022849" "27102014" &
-getPages "http://www.dw.com/de/24102014-langsam-gesprochene-nachrichten/a-18018418" "24102014" &
-getPages "http://www.dw.com/de/23102014-langsam-gesprochene-nachrichten/a-18016767" "23102014" &
-getPages "http://www.dw.com/de/22102014-langsam-gesprochene-nachrichten/a-18011596" "22102014" &
-getPages "http://www.dw.com/de/21102014-langsam-gesprochene-nachrichten/a-18009397" "21102014" &
-getPages "http://www.dw.com/de/20102014-langsam-gesprochene-nachrichten/a-18007477" "20102014" &
-getPages "http://www.dw.com/de/17102014-langsam-gesprochene-nachrichten/a-18001305" "17102014" &
-getPages "http://www.dw.com/de/16102014-langsam-gesprochene-nachrichten/a-17998914" "16102014" &
-getPages "http://www.dw.com/de/15102014-langsam-gesprochene-nachrichten/a-17996859" "15102014" &
-getPages "http://www.dw.com/de/14102014-langsam-gesprochene-nachrichten/a-17994782" "14102014" &
-getPages "http://www.dw.com/de/13102014-langsam-gesprochene-nachrichten/a-17990166" "13102014" &
-getPages "http://www.dw.com/de/10102014-langsam-gesprochene-nachrichten/a-17985884" "10102014" &
-getPages "http://www.dw.com/de/09102014-langsam-gesprochene-nachrichten/a-17983688" "09102014" &
-getPages "http://www.dw.com/de/08102014-langsam-gesprochene-nachrichten/a-17981911" "08102014" &
-getPages "http://www.dw.com/de/07102014-langsam-gesprochene-nachrichten/a-17979857" "07102014" &
-getPages "http://www.dw.com/de/06102014-langsam-gesprochene-nachrichten/a-17975559" "06102014" &
-getPages "http://www.dw.com/de/03102014-langsam-gesprochene-nachrichten/a-17971939" "03102014" &
-getPages "http://www.dw.com/de/02102014-langsam-gesprochene-nachrichten/a-17969447" "02102014" &
+getPages "http://www.dw.com/de/31102014-langsam-gesprochene-nachrichten/a-18032197" "31102014"
+getPages "http://www.dw.com/de/30102014-langsam-gesprochene-nachrichten/a-18029489" "30102014"
+getPages "http://www.dw.com/de/29102014-langsam-gesprochene-nachrichten/a-18027060" "29102014"
+getPages "http://www.dw.com/de/28102014-langsam-gesprochene-nachrichten/a-18024885" "28102014"
+getPages "http://www.dw.com/de/27102014-langsam-gesprochene-nachrichten/a-18022849" "27102014"
+getPages "http://www.dw.com/de/24102014-langsam-gesprochene-nachrichten/a-18018418" "24102014"
+getPages "http://www.dw.com/de/23102014-langsam-gesprochene-nachrichten/a-18016767" "23102014"
+getPages "http://www.dw.com/de/22102014-langsam-gesprochene-nachrichten/a-18011596" "22102014"
+getPages "http://www.dw.com/de/21102014-langsam-gesprochene-nachrichten/a-18009397" "21102014"
+getPages "http://www.dw.com/de/20102014-langsam-gesprochene-nachrichten/a-18007477" "20102014"
+getPages "http://www.dw.com/de/17102014-langsam-gesprochene-nachrichten/a-18001305" "17102014"
+getPages "http://www.dw.com/de/16102014-langsam-gesprochene-nachrichten/a-17998914" "16102014"
+getPages "http://www.dw.com/de/15102014-langsam-gesprochene-nachrichten/a-17996859" "15102014"
+getPages "http://www.dw.com/de/14102014-langsam-gesprochene-nachrichten/a-17994782" "14102014"
+getPages "http://www.dw.com/de/13102014-langsam-gesprochene-nachrichten/a-17990166" "13102014"
+getPages "http://www.dw.com/de/10102014-langsam-gesprochene-nachrichten/a-17985884" "10102014"
+getPages "http://www.dw.com/de/09102014-langsam-gesprochene-nachrichten/a-17983688" "09102014"
+getPages "http://www.dw.com/de/08102014-langsam-gesprochene-nachrichten/a-17981911" "08102014"
+getPages "http://www.dw.com/de/07102014-langsam-gesprochene-nachrichten/a-17979857" "07102014"
+getPages "http://www.dw.com/de/06102014-langsam-gesprochene-nachrichten/a-17975559" "06102014"
+getPages "http://www.dw.com/de/03102014-langsam-gesprochene-nachrichten/a-17971939" "03102014"
+getPages "http://www.dw.com/de/02102014-langsam-gesprochene-nachrichten/a-17969447" "02102014"
 getPages "http://www.dw.com/de/01102014-langsam-gesprochene-nachrichten/a-17967200" "01102014" &
-getPages "http://www.dw.com/de/30092014-langsam-gesprochene-nachrichten/a-17964764" "30092014" &
-getPages "http://www.dw.com/de/29092014-langsam-gesprochene-nachrichten/a-17961045" "29092014" &
-getPages "http://www.dw.com/de/26092014-langsam-gesprochene-nachrichten/a-17956757" "26092014" &
-getPages "http://www.dw.com/de/25092014-langsam-gesprochene-nachrichten/a-17954339" "25092014" &
-getPages "http://www.dw.com/de/24092014-langsam-gesprochene-nachrichten/a-17949476" "24092014" &
-getPages "http://www.dw.com/de/23092014-langsam-gesprochene-nachrichten/a-17941135" "23092014" &
-getPages "http://www.dw.com/de/22092014-langsam-gesprochene-nachrichten/a-17938831" "22092014" &
-getPages "http://www.dw.com/de/19092014-langsam-gesprochene-nachrichten/a-17934241" "19092014" &
-getPages "http://www.dw.com/de/18092014-langsam-gesprochene-nachrichten/a-17932096" "18092014" &
-getPages "http://www.dw.com/de/17092014-langsam-gesprochene-nachrichten/a-17927386" "17092014" &
-getPages "http://www.dw.com/de/16092014-langsam-gesprochene-nachrichten/a-17923781" "16092014" &
-getPages "http://www.dw.com/de/15092014-langsam-gesprochene-nachrichten/a-17921781" "15092014" &
-getPages "http://www.dw.com/de/12092014-langsam-gesprochene-nachrichten/a-17917498" "12092014" &
-getPages "http://www.dw.com/de/11092014-langsam-gesprochene-nachrichten/a-17914377" "11092014" &
-getPages "http://www.dw.com/de/10092014-langsam-gesprochene-nachrichten/a-17911711" "10092014" &
-getPages "http://www.dw.com/de/09092014-langsam-gesprochene-nachrichten/a-17909684" "09092014" &
-getPages "http://www.dw.com/de/08092014-langsam-gesprochene-nachrichten/a-17907509" "08092014" &
-getPages "http://www.dw.com/de/05092014-langsam-gesprochene-nachrichten/a-17903318" "05092014" &
-getPages "http://www.dw.com/de/04092014-langsam-gesprochene-nachrichten/a-17898732" "04092014" &
-getPages "http://www.dw.com/de/03092014-langsam-gesprochene-nachrichten/a-17896462" "03092014" &
-getPages "http://www.dw.com/de/02092014-langsam-gesprochene-nachrichten/a-17894486" "02092014" &
+getPages "http://www.dw.com/de/30092014-langsam-gesprochene-nachrichten/a-17964764" "30092014"
+getPages "http://www.dw.com/de/29092014-langsam-gesprochene-nachrichten/a-17961045" "29092014"
+getPages "http://www.dw.com/de/26092014-langsam-gesprochene-nachrichten/a-17956757" "26092014"
+getPages "http://www.dw.com/de/25092014-langsam-gesprochene-nachrichten/a-17954339" "25092014"
+getPages "http://www.dw.com/de/24092014-langsam-gesprochene-nachrichten/a-17949476" "24092014"
+getPages "http://www.dw.com/de/23092014-langsam-gesprochene-nachrichten/a-17941135" "23092014"
+getPages "http://www.dw.com/de/22092014-langsam-gesprochene-nachrichten/a-17938831" "22092014"
+getPages "http://www.dw.com/de/19092014-langsam-gesprochene-nachrichten/a-17934241" "19092014"
+getPages "http://www.dw.com/de/18092014-langsam-gesprochene-nachrichten/a-17932096" "18092014"
+getPages "http://www.dw.com/de/17092014-langsam-gesprochene-nachrichten/a-17927386" "17092014"
+getPages "http://www.dw.com/de/16092014-langsam-gesprochene-nachrichten/a-17923781" "16092014"
+getPages "http://www.dw.com/de/15092014-langsam-gesprochene-nachrichten/a-17921781" "15092014"
+getPages "http://www.dw.com/de/12092014-langsam-gesprochene-nachrichten/a-17917498" "12092014"
+getPages "http://www.dw.com/de/11092014-langsam-gesprochene-nachrichten/a-17914377" "11092014"
+getPages "http://www.dw.com/de/10092014-langsam-gesprochene-nachrichten/a-17911711" "10092014"
+getPages "http://www.dw.com/de/09092014-langsam-gesprochene-nachrichten/a-17909684" "09092014"
+getPages "http://www.dw.com/de/08092014-langsam-gesprochene-nachrichten/a-17907509" "08092014"
+getPages "http://www.dw.com/de/05092014-langsam-gesprochene-nachrichten/a-17903318" "05092014"
+getPages "http://www.dw.com/de/04092014-langsam-gesprochene-nachrichten/a-17898732" "04092014"
+getPages "http://www.dw.com/de/03092014-langsam-gesprochene-nachrichten/a-17896462" "03092014"
+getPages "http://www.dw.com/de/02092014-langsam-gesprochene-nachrichten/a-17894486" "02092014"
 getPages "http://www.dw.com/de/01092014-langsam-gesprochene-nachrichten/a-17892366" "01092014" &
-getPages "http://www.dw.com/de/29082014-langsam-gesprochene-nachrichten/a-17888021" "29082014" &
-getPages "http://www.dw.com/de/28082014-langsam-gesprochene-nachrichten/a-17885954" "28082014" &
-getPages "http://www.dw.com/de/27082014-langsam-gesprochene-nachrichten/a-17881268" "27082014" &
-getPages "http://www.dw.com/de/26082014-langsam-gesprochene-nachrichten/a-17878908" "26082014" &
-getPages "http://www.dw.com/de/25082014-langsam-gesprochene-nachrichten/a-17875169" "25082014" &
-getPages "http://www.dw.com/de/22082014-langsam-gesprochene-nachrichten/a-17870971" "22082014" &
-getPages "http://www.dw.com/de/21082014-langsam-gesprochene-nachrichten/a-17869045" "21082014" &
-getPages "http://www.dw.com/de/20082014-langsam-gesprochene-nachrichten/a-17864445" "20082014" &
-getPages "http://www.dw.com/de/19082014-langsam-gesprochene-nachrichten/a-17862253" "19082014" &
-getPages "http://www.dw.com/de/18082014-langsam-gesprochene-nachrichten/a-17860043" "18082014" &
-getPages "http://www.dw.com/de/15082014-langsam-gesprochene-nachrichten/a-17856024" "15082014" &
-getPages "http://www.dw.com/de/14082014-langsam-gesprochene-nachrichten/a-17853637" "14082014" &
-getPages "http://www.dw.com/de/13082014-langsam-gesprochene-nachrichten/a-17848846" "13082014" &
-getPages "http://www.dw.com/de/12082014-langsam-gesprochene-nachrichten/a-17847008" "12082014" &
-getPages "http://www.dw.com/de/11082014-langsam-gesprochene-nachrichten/a-17845145" "11082014" &
-getPages "http://www.dw.com/de/08082014-langsam-gesprochene-nachrichten/a-17840830" "08082014" &
-getPages "http://www.dw.com/de/07082014-langsam-gesprochene-nachrichten/a-17838588" "07082014" &
-getPages "http://www.dw.com/de/06082014-langsam-gesprochene-nachrichten/a-17834035" "06082014" &
-getPages "http://www.dw.com/de/05082014-langsam-gesprochene-nachrichten/a-17832141" "05082014" &
-getPages "http://www.dw.com/de/04082014-langsam-gesprochene-nachrichten/a-17829702" "04082014" &
+getPages "http://www.dw.com/de/29082014-langsam-gesprochene-nachrichten/a-17888021" "29082014"
+getPages "http://www.dw.com/de/28082014-langsam-gesprochene-nachrichten/a-17885954" "28082014"
+getPages "http://www.dw.com/de/27082014-langsam-gesprochene-nachrichten/a-17881268" "27082014"
+getPages "http://www.dw.com/de/26082014-langsam-gesprochene-nachrichten/a-17878908" "26082014"
+getPages "http://www.dw.com/de/25082014-langsam-gesprochene-nachrichten/a-17875169" "25082014"
+getPages "http://www.dw.com/de/22082014-langsam-gesprochene-nachrichten/a-17870971" "22082014"
+getPages "http://www.dw.com/de/21082014-langsam-gesprochene-nachrichten/a-17869045" "21082014"
+getPages "http://www.dw.com/de/20082014-langsam-gesprochene-nachrichten/a-17864445" "20082014"
+getPages "http://www.dw.com/de/19082014-langsam-gesprochene-nachrichten/a-17862253" "19082014"
+getPages "http://www.dw.com/de/18082014-langsam-gesprochene-nachrichten/a-17860043" "18082014"
+getPages "http://www.dw.com/de/15082014-langsam-gesprochene-nachrichten/a-17856024" "15082014"
+getPages "http://www.dw.com/de/14082014-langsam-gesprochene-nachrichten/a-17853637" "14082014"
+getPages "http://www.dw.com/de/13082014-langsam-gesprochene-nachrichten/a-17848846" "13082014"
+getPages "http://www.dw.com/de/12082014-langsam-gesprochene-nachrichten/a-17847008" "12082014"
+getPages "http://www.dw.com/de/11082014-langsam-gesprochene-nachrichten/a-17845145" "11082014"
+getPages "http://www.dw.com/de/08082014-langsam-gesprochene-nachrichten/a-17840830" "08082014"
+getPages "http://www.dw.com/de/07082014-langsam-gesprochene-nachrichten/a-17838588" "07082014"
+getPages "http://www.dw.com/de/06082014-langsam-gesprochene-nachrichten/a-17834035" "06082014"
+getPages "http://www.dw.com/de/05082014-langsam-gesprochene-nachrichten/a-17832141" "05082014"
+getPages "http://www.dw.com/de/04082014-langsam-gesprochene-nachrichten/a-17829702" "04082014"
 getPages "http://www.dw.com/de/01082014-langsam-gesprochene-nachrichten/a-17825648" "01082014" &
-getPages "http://www.dw.com/de/31072014-langsam-gesprochene-nachrichten/a-17823653" "31072014" &
-getPages "http://www.dw.com/de/30072014-langsam-gesprochene-nachrichten/a-17821541" "30072014" &
-getPages "http://www.dw.com/de/29072014-langsam-gesprochene-nachrichten/a-17816962" "29072014" &
-getPages "http://www.dw.com/de/28072014-langsam-gesprochene-nachrichten/a-17812217" "28072014" &
-getPages "http://www.dw.com/de/25072014-langsam-gesprochene-nachrichten/a-17808305" "25072014" &
-getPages "http://www.dw.com/de/24072014-langsam-gesprochene-nachrichten/a-17804796" "24072014" &
-getPages "http://www.dw.com/de/23072014-langsam-gesprochene-nachrichten/a-17801323" "23072014" &
-getPages "http://www.dw.com/de/22072014-langsam-gesprochene-nachrichten/a-17799450" "22072014" &
-getPages "http://www.dw.com/de/21072014-langsam-gesprochene-nachrichten/a-17797571" "21072014" &
-getPages "http://www.dw.com/de/18072014-langsam-gesprochene-nachrichten/a-17793338" "18072014" &
-getPages "http://www.dw.com/de/17072014-langsam-gesprochene-nachrichten/a-17791404" "17072014" &
-getPages "http://www.dw.com/de/16072014-langsam-gesprochene-nachrichten/a-17789178" "16072014" &
-getPages "http://www.dw.com/de/15072014-langsam-gesprochene-nachrichten/a-17786176" "15072014" &
-getPages "http://www.dw.com/de/14072014-langsam-gesprochene-nachrichten/a-17783867" "14072014" &
-getPages "http://www.dw.com/de/11072014-langsam-gesprochene-nachrichten/a-17776761" "11072014" &
-getPages "http://www.dw.com/de/10072014-langsam-gesprochene-nachrichten/a-17771796" "10072014" &
-getPages "http://www.dw.com/de/09072014-langsam-gesprochene-nachrichten/a-17769418" "09072014" &
-getPages "http://www.dw.com/de/08072014-langsam-gesprochene-nachrichten/a-17766575" "08072014" &
-getPages "http://www.dw.com/de/07072014-langsam-gesprochene-nachrichten/a-17762328" "07072014" &
-getPages "http://www.dw.com/de/04072014-langsam-gesprochene-nachrichten/a-17757550" "04072014" &
-getPages "http://www.dw.com/de/03072014-langsam-gesprochene-nachrichten/a-17755097" "03072014" &
-getPages "http://www.dw.com/de/02072014-langsam-gesprochene-nachrichten/a-17752751" "02072014" &
+getPages "http://www.dw.com/de/31072014-langsam-gesprochene-nachrichten/a-17823653" "31072014"
+getPages "http://www.dw.com/de/30072014-langsam-gesprochene-nachrichten/a-17821541" "30072014"
+getPages "http://www.dw.com/de/29072014-langsam-gesprochene-nachrichten/a-17816962" "29072014"
+getPages "http://www.dw.com/de/28072014-langsam-gesprochene-nachrichten/a-17812217" "28072014"
+getPages "http://www.dw.com/de/25072014-langsam-gesprochene-nachrichten/a-17808305" "25072014"
+getPages "http://www.dw.com/de/24072014-langsam-gesprochene-nachrichten/a-17804796" "24072014"
+getPages "http://www.dw.com/de/23072014-langsam-gesprochene-nachrichten/a-17801323" "23072014"
+getPages "http://www.dw.com/de/22072014-langsam-gesprochene-nachrichten/a-17799450" "22072014"
+getPages "http://www.dw.com/de/21072014-langsam-gesprochene-nachrichten/a-17797571" "21072014"
+getPages "http://www.dw.com/de/18072014-langsam-gesprochene-nachrichten/a-17793338" "18072014"
+getPages "http://www.dw.com/de/17072014-langsam-gesprochene-nachrichten/a-17791404" "17072014"
+getPages "http://www.dw.com/de/16072014-langsam-gesprochene-nachrichten/a-17789178" "16072014"
+getPages "http://www.dw.com/de/15072014-langsam-gesprochene-nachrichten/a-17786176" "15072014"
+getPages "http://www.dw.com/de/14072014-langsam-gesprochene-nachrichten/a-17783867" "14072014"
+getPages "http://www.dw.com/de/11072014-langsam-gesprochene-nachrichten/a-17776761" "11072014"
+getPages "http://www.dw.com/de/10072014-langsam-gesprochene-nachrichten/a-17771796" "10072014"
+getPages "http://www.dw.com/de/09072014-langsam-gesprochene-nachrichten/a-17769418" "09072014"
+getPages "http://www.dw.com/de/08072014-langsam-gesprochene-nachrichten/a-17766575" "08072014"
+getPages "http://www.dw.com/de/07072014-langsam-gesprochene-nachrichten/a-17762328" "07072014"
+getPages "http://www.dw.com/de/04072014-langsam-gesprochene-nachrichten/a-17757550" "04072014"
+getPages "http://www.dw.com/de/03072014-langsam-gesprochene-nachrichten/a-17755097" "03072014"
+getPages "http://www.dw.com/de/02072014-langsam-gesprochene-nachrichten/a-17752751" "02072014"
 getPages "http://www.dw.com/de/01072014-langsam-gesprochene-nachrichten/a-17748448" "01072014" &
-getPages "http://www.dw.com/de/30062014-langsam-gesprochene-nachrichten/a-17746008" "30062014" &
-getPages "http://www.dw.com/de/27062014-langsam-gesprochene-nachrichten/a-17740936" "27062014" &
-getPages "http://www.dw.com/de/26062014-langsam-gesprochene-nachrichten/a-17737427" "26062014" &
-getPages "http://www.dw.com/de/25062014-langsam-gesprochene-nachrichten/a-17735398" "25062014" &
-getPages "http://www.dw.com/de/24062014-langsam-gesprochene-nachrichten/a-17732556" "24062014" &
-getPages "http://www.dw.com/de/23062014-langsam-gesprochene-nachrichten/a-17729058" "23062014" &
-getPages "http://www.dw.com/de/20062014-langsam-gesprochene-nachrichten/a-17723506" "20062014" &
-getPages "http://www.dw.com/de/19062014-langsam-gesprochene-nachrichten/a-17720146" "19062014" &
-getPages "http://www.dw.com/de/18062014-langsam-gesprochene-nachrichten/a-17716700" "18062014" &
-getPages "http://www.dw.com/de/17062014-langsam-gesprochene-nachrichten/a-17712011" "17062014" &
-getPages "http://www.dw.com/de/13062014-langsam-gesprochene-nachrichten/a-17704294" "13062014" &
-getPages "http://www.dw.com/de/12062014-langsam-gesprochene-nachrichten/a-17702295" "12062014" &
-getPages "http://www.dw.com/de/11062014-langsam-gesprochene-nachrichten/a-17699267" "11062014" &
-getPages "http://www.dw.com/de/10062014-langsam-gesprochene-nachrichten/a-17694799" "10062014" &
-getPages "http://www.dw.com/de/09062014-langsam-gesprochene-nachrichten/a-17693009" "09062014" &
-getPages "http://www.dw.com/de/06062014-langsam-gesprochene-nachrichten/a-17688590" "06062014" &
-getPages "http://www.dw.com/de/05062014-langsam-gesprochene-nachrichten/a-17684459" "05062014" &
-getPages "http://www.dw.com/de/04062014-langsam-gesprochene-nachrichten/a-17681014" "04062014" &
-getPages "http://www.dw.com/de/03062014-langsam-gesprochene-nachrichten/a-17678413" "03062014" &
+getPages "http://www.dw.com/de/30062014-langsam-gesprochene-nachrichten/a-17746008" "30062014"
+getPages "http://www.dw.com/de/27062014-langsam-gesprochene-nachrichten/a-17740936" "27062014"
+getPages "http://www.dw.com/de/26062014-langsam-gesprochene-nachrichten/a-17737427" "26062014"
+getPages "http://www.dw.com/de/25062014-langsam-gesprochene-nachrichten/a-17735398" "25062014"
+getPages "http://www.dw.com/de/24062014-langsam-gesprochene-nachrichten/a-17732556" "24062014"
+getPages "http://www.dw.com/de/23062014-langsam-gesprochene-nachrichten/a-17729058" "23062014"
+getPages "http://www.dw.com/de/20062014-langsam-gesprochene-nachrichten/a-17723506" "20062014"
+getPages "http://www.dw.com/de/19062014-langsam-gesprochene-nachrichten/a-17720146" "19062014"
+getPages "http://www.dw.com/de/18062014-langsam-gesprochene-nachrichten/a-17716700" "18062014"
+getPages "http://www.dw.com/de/17062014-langsam-gesprochene-nachrichten/a-17712011" "17062014"
+getPages "http://www.dw.com/de/13062014-langsam-gesprochene-nachrichten/a-17704294" "13062014"
+getPages "http://www.dw.com/de/12062014-langsam-gesprochene-nachrichten/a-17702295" "12062014"
+getPages "http://www.dw.com/de/11062014-langsam-gesprochene-nachrichten/a-17699267" "11062014"
+getPages "http://www.dw.com/de/10062014-langsam-gesprochene-nachrichten/a-17694799" "10062014"
+getPages "http://www.dw.com/de/09062014-langsam-gesprochene-nachrichten/a-17693009" "09062014"
+getPages "http://www.dw.com/de/06062014-langsam-gesprochene-nachrichten/a-17688590" "06062014"
+getPages "http://www.dw.com/de/05062014-langsam-gesprochene-nachrichten/a-17684459" "05062014"
+getPages "http://www.dw.com/de/04062014-langsam-gesprochene-nachrichten/a-17681014" "04062014"
+getPages "http://www.dw.com/de/03062014-langsam-gesprochene-nachrichten/a-17678413" "03062014"
 getPages "http://www.dw.com/de/02062014-langsam-gesprochene-nachrichten/a-17676021" "02062014" &
-getPages "http://www.dw.com/de/30052014-langsam-gesprochene-nachrichten/a-17671772" "30052014" &
-getPages "http://www.dw.com/de/29052014-langsam-gesprochene-nachrichten/a-17670116" "29052014" &
-getPages "http://www.dw.com/de/28052014-langsam-gesprochene-nachrichten/a-17667153" "28052014" &
-getPages "http://www.dw.com/de/27052014-langsam-gesprochene-nachrichten/a-17664817" "27052014" &
-getPages "http://www.dw.com/de/26052014-langsam-gesprochene-nachrichten/a-17662628" "26052014" &
-getPages "http://www.dw.com/de/23052014-langsam-gesprochene-nachrichten/a-17655397" "23052014" &
-getPages "http://www.dw.com/de/22052014-langsam-gesprochene-nachrichten/a-17653092" "22052014" &
-getPages "http://www.dw.com/de/21052014-langsam-gesprochene-nachrichten/a-17650208" "21052014" &
-getPages "http://www.dw.com/de/20052014-langsam-gesprochene-nachrichten/a-17647427" "20052014" &
-getPages "http://www.dw.com/de/19052014-langsam-gesprochene-nachrichten/a-17644835" "19052014" &
-getPages "http://www.dw.com/de/16052014-langsam-gesprochene-nachrichten/a-17640368" "16052014" &
-getPages "http://www.dw.com/de/15052014-langsam-gesprochene-nachrichten/a-17638183" "15052014" &
-getPages "http://www.dw.com/de/14052014-langsam-gesprochene-nachrichten/a-17633919" "14052014" &
-getPages "http://www.dw.com/de/13052014-langsam-gesprochene-nachrichten/a-17631126" "13052014" &
-getPages "http://www.dw.com/de/12052014-langsam-gesprochene-nachrichten/a-17628927" "12052014" &
-getPages "http://www.dw.com/de/09052014-langsam-gesprochene-nachrichten/a-17623932" "09052014" &
-getPages "http://www.dw.com/de/08052014-langsam-gesprochene-nachrichten/a-17619155" "08052014" &
-getPages "http://www.dw.com/de/07052014-langsam-gesprochene-nachrichten/a-17616697" "07052014" &
-getPages "http://www.dw.com/de/06052014-langsam-gesprochene-nachrichten/a-17614572" "06052014" &
-getPages "http://www.dw.com/de/05052014-langsam-gesprochene-nachrichten/a-17612501" "05052014" &
-getPages "http://www.dw.com/de/02052014-langsam-gesprochene-nachrichten/a-17606606" "02052014" &
+getPages "http://www.dw.com/de/30052014-langsam-gesprochene-nachrichten/a-17671772" "30052014"
+getPages "http://www.dw.com/de/29052014-langsam-gesprochene-nachrichten/a-17670116" "29052014"
+getPages "http://www.dw.com/de/28052014-langsam-gesprochene-nachrichten/a-17667153" "28052014"
+getPages "http://www.dw.com/de/27052014-langsam-gesprochene-nachrichten/a-17664817" "27052014"
+getPages "http://www.dw.com/de/26052014-langsam-gesprochene-nachrichten/a-17662628" "26052014"
+getPages "http://www.dw.com/de/23052014-langsam-gesprochene-nachrichten/a-17655397" "23052014"
+getPages "http://www.dw.com/de/22052014-langsam-gesprochene-nachrichten/a-17653092" "22052014"
+getPages "http://www.dw.com/de/21052014-langsam-gesprochene-nachrichten/a-17650208" "21052014"
+getPages "http://www.dw.com/de/20052014-langsam-gesprochene-nachrichten/a-17647427" "20052014"
+getPages "http://www.dw.com/de/19052014-langsam-gesprochene-nachrichten/a-17644835" "19052014"
+getPages "http://www.dw.com/de/16052014-langsam-gesprochene-nachrichten/a-17640368" "16052014"
+getPages "http://www.dw.com/de/15052014-langsam-gesprochene-nachrichten/a-17638183" "15052014"
+getPages "http://www.dw.com/de/14052014-langsam-gesprochene-nachrichten/a-17633919" "14052014"
+getPages "http://www.dw.com/de/13052014-langsam-gesprochene-nachrichten/a-17631126" "13052014"
+getPages "http://www.dw.com/de/12052014-langsam-gesprochene-nachrichten/a-17628927" "12052014"
+getPages "http://www.dw.com/de/09052014-langsam-gesprochene-nachrichten/a-17623932" "09052014"
+getPages "http://www.dw.com/de/08052014-langsam-gesprochene-nachrichten/a-17619155" "08052014"
+getPages "http://www.dw.com/de/07052014-langsam-gesprochene-nachrichten/a-17616697" "07052014"
+getPages "http://www.dw.com/de/06052014-langsam-gesprochene-nachrichten/a-17614572" "06052014"
+getPages "http://www.dw.com/de/05052014-langsam-gesprochene-nachrichten/a-17612501" "05052014"
+getPages "http://www.dw.com/de/02052014-langsam-gesprochene-nachrichten/a-17606606" "02052014"
 getPages "http://www.dw.com/de/01052014-langsam-gesprochene-nachrichten/a-17605032" "01052014" &
-getPages "http://www.dw.com/de/30042014-langsam-gesprochene-nachrichten/a-17602272" "30042014" &
-getPages "http://www.dw.com/de/29042014-langsam-gesprochene-nachrichten/a-17600025" "29042014" &
-getPages "http://www.dw.com/de/28042014-langsam-gesprochene-nachrichten/a-17595357" "28042014" &
-getPages "http://www.dw.com/de/25042014-langsam-gesprochene-nachrichten/a-17591194" "25042014" &
-getPages "http://www.dw.com/de/24042014-langsam-gesprochene-nachrichten/a-17589151" "24042014" &
-getPages "http://www.dw.com/de/23042014-langsam-gesprochene-nachrichten/a-17584265" "23042014" &
-getPages "http://www.dw.com/de/22042014-langsam-gesprochene-nachrichten/a-17582117" "22042014" &
-getPages "http://www.dw.com/de/21042014-langsam-gesprochene-nachrichten/a-17580800" "21042014" &
-getPages "http://www.dw.com/de/18042014-langsam-gesprochene-nachrichten/a-17577084" "18042014" &
-getPages "http://www.dw.com/de/17042014-langsam-gesprochene-nachrichten/a-17574849" "17042014" &
-getPages "http://www.dw.com/de/16042014-langsam-gesprochene-nachrichten/a-17572395" "16042014" &
-getPages "http://www.dw.com/de/15042014-langsam-gesprochene-nachrichten/a-17567336" "15042014" &
-getPages "http://www.dw.com/de/14042014-langsam-gesprochene-nachrichten/a-17564882" "14042014" &
-getPages "http://www.dw.com/de/11042014-langsam-gesprochene-nachrichten/a-17559948" "11042014" &
-getPages "http://www.dw.com/de/10042014-langsam-gesprochene-nachrichten/a-17555092" "10042014" &
-getPages "http://www.dw.com/de/09042014-langsam-gesprochene-nachrichten/a-17552408" "09042014" &
-getPages "http://www.dw.com/de/08042014-langsam-gesprochene-nachrichten/a-17550095" "08042014" &
-getPages "http://www.dw.com/de/07042014-langsam-gesprochene-nachrichten/a-17547995" "07042014" &
-getPages "http://www.dw.com/de/04042014-langsam-gesprochene-nachrichten/a-17543162" "04042014" &
-getPages "http://www.dw.com/de/03042014-langsam-gesprochene-nachrichten/a-17538371" "03042014" &
-getPages "http://www.dw.com/de/02042014-langsam-gesprochene-nachrichten/a-17536121" "02042014" &
+getPages "http://www.dw.com/de/30042014-langsam-gesprochene-nachrichten/a-17602272" "30042014"
+getPages "http://www.dw.com/de/29042014-langsam-gesprochene-nachrichten/a-17600025" "29042014"
+getPages "http://www.dw.com/de/28042014-langsam-gesprochene-nachrichten/a-17595357" "28042014"
+getPages "http://www.dw.com/de/25042014-langsam-gesprochene-nachrichten/a-17591194" "25042014"
+getPages "http://www.dw.com/de/24042014-langsam-gesprochene-nachrichten/a-17589151" "24042014"
+getPages "http://www.dw.com/de/23042014-langsam-gesprochene-nachrichten/a-17584265" "23042014"
+getPages "http://www.dw.com/de/22042014-langsam-gesprochene-nachrichten/a-17582117" "22042014"
+getPages "http://www.dw.com/de/21042014-langsam-gesprochene-nachrichten/a-17580800" "21042014"
+getPages "http://www.dw.com/de/18042014-langsam-gesprochene-nachrichten/a-17577084" "18042014"
+getPages "http://www.dw.com/de/17042014-langsam-gesprochene-nachrichten/a-17574849" "17042014"
+getPages "http://www.dw.com/de/16042014-langsam-gesprochene-nachrichten/a-17572395" "16042014"
+getPages "http://www.dw.com/de/15042014-langsam-gesprochene-nachrichten/a-17567336" "15042014"
+getPages "http://www.dw.com/de/14042014-langsam-gesprochene-nachrichten/a-17564882" "14042014"
+getPages "http://www.dw.com/de/11042014-langsam-gesprochene-nachrichten/a-17559948" "11042014"
+getPages "http://www.dw.com/de/10042014-langsam-gesprochene-nachrichten/a-17555092" "10042014"
+getPages "http://www.dw.com/de/09042014-langsam-gesprochene-nachrichten/a-17552408" "09042014"
+getPages "http://www.dw.com/de/08042014-langsam-gesprochene-nachrichten/a-17550095" "08042014"
+getPages "http://www.dw.com/de/07042014-langsam-gesprochene-nachrichten/a-17547995" "07042014"
+getPages "http://www.dw.com/de/04042014-langsam-gesprochene-nachrichten/a-17543162" "04042014"
+getPages "http://www.dw.com/de/03042014-langsam-gesprochene-nachrichten/a-17538371" "03042014"
+getPages "http://www.dw.com/de/02042014-langsam-gesprochene-nachrichten/a-17536121" "02042014"
 getPages "http://www.dw.com/de/01042014-langsam-gesprochene-nachrichten/a-17534065" "01042014" &
-getPages "http://www.dw.com/de/31032014-langsam-gesprochene-nachrichten/a-17531775" "31032014" &
-getPages "http://www.dw.com/de/28032014-langsam-gesprochene-nachrichten/a-17527395" "28032014" &
-getPages "http://www.dw.com/de/27032014-langsam-gesprochene-nachrichten/a-17523121" "27032014" &
-getPages "http://www.dw.com/de/26032014-langsam-gesprochene-nachrichten/a-17520363" "26032014" &
-getPages "http://www.dw.com/de/25032014-langsam-gesprochene-nachrichten/a-17518317" "25032014" &
-getPages "http://www.dw.com/de/24032014-langsam-gesprochene-nachrichten/a-17516052" "24032014" &
-getPages "http://www.dw.com/de/21032014-langsam-gesprochene-nachrichten/a-17512003" "21032014" &
-getPages "http://www.dw.com/de/20032014-langsam-gesprochene-nachrichten/a-17509773" "20032014" &
-getPages "http://www.dw.com/de/19032014-langsam-gesprochene-nachrichten/a-17506457" "19032014" &
-getPages "http://www.dw.com/de/18032014-langsam-gesprochene-nachrichten/a-17503312" "18032014" &
-getPages "http://www.dw.com/de/17032014-langsam-gesprochene-nachrichten/a-17500832" "17032014" &
-getPages "http://www.dw.com/de/14032014-langsam-gesprochene-nachrichten/a-17496409" "14032014" &
-getPages "http://www.dw.com/de/13032014-langsam-gesprochene-nachrichten/a-17493864" "13032014" &
-getPages "http://www.dw.com/de/12032014-langsam-gesprochene-nachrichten/a-17489355" "12032014" &
-getPages "http://www.dw.com/de/11032014-langsam-gesprochene-nachrichten/a-17487094" "11032014" &
-getPages "http://www.dw.com/de/10032014-langsam-gesprochene-nachrichten/a-17485044" "10032014" &
-getPages "http://www.dw.com/de/07032014-langsam-gesprochene-nachrichten/a-17480884" "07032014" &
-getPages "http://www.dw.com/de/06032014-langsam-gesprochene-nachrichten/a-17478695" "06032014" &
-getPages "http://www.dw.com/de/05032014-langsam-gesprochene-nachrichten/a-17476628" "05032014" &
-getPages "http://www.dw.com/de/04032014-langsam-gesprochene-nachrichten/a-17471909" "04032014" &
+getPages "http://www.dw.com/de/31032014-langsam-gesprochene-nachrichten/a-17531775" "31032014"
+getPages "http://www.dw.com/de/28032014-langsam-gesprochene-nachrichten/a-17527395" "28032014"
+getPages "http://www.dw.com/de/27032014-langsam-gesprochene-nachrichten/a-17523121" "27032014"
+getPages "http://www.dw.com/de/26032014-langsam-gesprochene-nachrichten/a-17520363" "26032014"
+getPages "http://www.dw.com/de/25032014-langsam-gesprochene-nachrichten/a-17518317" "25032014"
+getPages "http://www.dw.com/de/24032014-langsam-gesprochene-nachrichten/a-17516052" "24032014"
+getPages "http://www.dw.com/de/21032014-langsam-gesprochene-nachrichten/a-17512003" "21032014"
+getPages "http://www.dw.com/de/20032014-langsam-gesprochene-nachrichten/a-17509773" "20032014"
+getPages "http://www.dw.com/de/19032014-langsam-gesprochene-nachrichten/a-17506457" "19032014"
+getPages "http://www.dw.com/de/18032014-langsam-gesprochene-nachrichten/a-17503312" "18032014"
+getPages "http://www.dw.com/de/17032014-langsam-gesprochene-nachrichten/a-17500832" "17032014"
+getPages "http://www.dw.com/de/14032014-langsam-gesprochene-nachrichten/a-17496409" "14032014"
+getPages "http://www.dw.com/de/13032014-langsam-gesprochene-nachrichten/a-17493864" "13032014"
+getPages "http://www.dw.com/de/12032014-langsam-gesprochene-nachrichten/a-17489355" "12032014"
+getPages "http://www.dw.com/de/11032014-langsam-gesprochene-nachrichten/a-17487094" "11032014"
+getPages "http://www.dw.com/de/10032014-langsam-gesprochene-nachrichten/a-17485044" "10032014"
+getPages "http://www.dw.com/de/07032014-langsam-gesprochene-nachrichten/a-17480884" "07032014"
+getPages "http://www.dw.com/de/06032014-langsam-gesprochene-nachrichten/a-17478695" "06032014"
+getPages "http://www.dw.com/de/05032014-langsam-gesprochene-nachrichten/a-17476628" "05032014"
+getPages "http://www.dw.com/de/04032014-langsam-gesprochene-nachrichten/a-17471909" "04032014"
 getPages "http://www.dw.com/de/03032014-langsam-gesprochene-nachrichten/a-17469095" "03032014" &
-getPages "http://www.dw.com/de/28022014-langsam-gesprochene-nachrichten/a-17464434" "28022014" &
-getPages "http://www.dw.com/de/27022014-langsam-gesprochene-nachrichten/a-17460534" "27022014" &
-getPages "http://www.dw.com/de/26022014-langsam-gesprochene-nachrichten/a-17457331" "26022014" &
+getPages "http://www.dw.com/de/28022014-langsam-gesprochene-nachrichten/a-17464434" "28022014"
+getPages "http://www.dw.com/de/27022014-langsam-gesprochene-nachrichten/a-17460534" "27022014"
+getPages "http://www.dw.com/de/26022014-langsam-gesprochene-nachrichten/a-17457331" "26022014"
 getPages "http://www.dw.com/de/25022014-langsam-gesprochene-nachrichten/a-17454995" "25022014" &
